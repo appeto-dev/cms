@@ -1,0 +1,35 @@
+body {
+    text-align: left;
+    font-family: IRANSans !important;
+    font-weight: normal;
+}
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: IRANSans !important;
+    font-weight: normal;
+}
+.cke_reset_all, .cke_reset_all *, .cke_reset_all a, .cke_reset_all textarea {
+    font-family: IRANSans !important;
+}
+
+#pollBtn {
+    right: 150px !important;
+    left: auto !important;
+}
+
+#addPageBtn {
+    position: fixed;
+    left: 33px;
+    bottom: 15px;
+    width: 180px
+}
+
+#addThemeBtn {
+    position: fixed;
+    left: 33px;
+    bottom: 15px;
+    width: 170px;
+}
+
+.dayNightEditor {
+    display: none;
+}

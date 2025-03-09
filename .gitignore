@@ -1,0 +1,15 @@
+/.idea/
+/uploads/
+/vendor/
+/tests/
+/src/logs/*
+/apt_pv_app_export_data/
+.idea
+.idea/*
+/.idea/*
+/uploads/stocks/
+/uploads/stocks/bg/
+/public/uploads/
+/public/apt_pv_app_export_data/
+/extra_modules/
+/.env

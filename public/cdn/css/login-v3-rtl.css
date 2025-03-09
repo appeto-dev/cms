@@ -1,0 +1,24 @@
+body {
+    font-family: IRANSans !important;
+}
+.form-material .floating-label {
+    left: auto;
+    right: 0;
+}
+/*input[type=email],
+input[type=password] {
+    direction: ltr;
+    text-align: left;
+}*/
+.label {
+    text-align: right;
+}
+
+.checkbox-custom {
+    float: right;
+    margin-top: 3px !important;
+}
+.checkbox-primary input[type="checkbox"]:checked + label::before {
+    background-color: #846faa;
+    border-color: #846faa;
+}

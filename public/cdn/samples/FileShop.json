@@ -1,0 +1,2607 @@
+{
+  "user_id": "{{USER_ID}}",
+  "name": "\u0641\u06cc\u062f\u06cc\u0628\u0648",
+  "icon": "\/uploads\/stocks\/icons\/file\/colorful\/icon109.png",
+  "no_image": "",
+  "language": "fa-IR",
+  "package_name": "",
+  "version_code": "1.0.0",
+  "version_number": 1,
+  "pwa_version_code": "1.0.0",
+  "pwa_version_number": 1,
+  "pwa_site_url": "",
+  "bundle_id": "",
+  "ios_version_code": "1.0.0",
+  "ios_version_number": 1,
+  "slug": "",
+  "android_purchased": 0,
+  "android_expired": "",
+  "ios_purchased": 0,
+  "ios_expired": "",
+  "pwa_purchased": 0,
+  "pwa_expired": "",
+  "google_play": 0,
+  "google_play_request_count": 0,
+  "ios_request_count": 0,
+  "android_email_extend": 0,
+  "android_sms_extend": 0,
+  "ios_email_extend": 0,
+  "ios_sms_extend": 0,
+  "pwa_email_extend": 0,
+  "pwa_sms_extend": 0,
+  "premium_modules": [],
+  "backup": 0,
+  "ai": 0,
+  "can_copy": "no",
+  "screen_record": "yes",
+  "images_box_fit": "cover",
+  "themes": [
+    {
+      "_id": "default",
+      "name": "\u0637\u0631\u0627\u062d\u06cc \u067e\u06cc\u0634 \u0641\u0631\u0636 AI",
+      "type": "app-bottom-tab",
+      "settings": {
+        "design_type": "normal",
+        "theme_color_key": "color_2",
+        "theme_direction": "rtl",
+        "background_type": "color",
+        "background_color": "#f6f5f5",
+        "background_image": "",
+        "theme_primary_color": "#36babe",
+        "theme_primary_color_txt": "#ffffff",
+        "theme_secondary_color": "#36babe",
+        "theme_secondary_color_txt": "#ffffff",
+        "error_indicator_image": "",
+        "navbar_type": "static",
+        "theme_navbar_title_type": "text",
+        "navbar_image_title": "",
+        "theme_navbar_text_align": "center",
+        "theme_navbar_box_shadow": "no",
+        "optional_buttons_background": "#198480",
+        "optional_buttons_txt_color": "#ffffff",
+        "optional_buttons_elevation": "0",
+        "optional_buttons_text_size": "14",
+        "optional_buttons_radius_top_right": "30",
+        "optional_buttons_radius_top_left": "30",
+        "optional_buttons_radius_bottom_right": "30",
+        "optional_buttons_radius_bottom_left": "30",
+        "optional_buttons_border_color": "transparent",
+        "optional_buttons_border_width": "0",
+        "optional_buttons_icon_color": "#ffffff",
+        "optional_buttons_icon_size": "24",
+        "optional_fab_buttons_background": "#198480",
+        "optional_fab_buttons_txt_color": "#ffffff",
+        "optional_fab_buttons_elevation": "2",
+        "optional_fab_buttons_text_size": "14",
+        "optional_fab_buttons_radius_top_right": "30",
+        "optional_fab_buttons_radius_top_left": "30",
+        "optional_fab_buttons_radius_bottom_right": "30",
+        "optional_fab_buttons_radius_bottom_left": "30",
+        "optional_fab_buttons_border_color": "transparent",
+        "optional_fab_buttons_border_width": "0",
+        "optional_fab_buttons_icon_color": "#ffffff",
+        "optional_fab_buttons_icon_size": "24",
+        "optional_inputs_bg_color": "transparent",
+        "optional_inputs_elevation": "0",
+        "optional_inputs_border_color": "#c1c1c1",
+        "optional_inputs_label_color": "#333333",
+        "optional_inputs_active_border_color": "#35495E",
+        "optional_inputs_active_label_color": "#35495E",
+        "optional_inputs_border_width": "1",
+        "optional_inputs_radius_top_right": "4",
+        "optional_inputs_radius_top_left": "4",
+        "optional_inputs_radius_bottom_right": "4",
+        "optional_inputs_radius_bottom_left": "4",
+        "optional_panels_elevation": "0",
+        "optional_panels_radius_top_right": "30",
+        "optional_panels_radius_top_left": "30",
+        "optional_panels_radius_bottom_right": "0",
+        "optional_panels_radius_bottom_left": "0",
+        "optional_panels_border_color": "#c1c1c1",
+        "optional_panels_border_width": "1",
+        "optional_panels_bg_color": "#eeeeee",
+        "optional_panels_title_color": "#333333",
+        "optional_panels_sub_title_color": "#666666",
+        "optional_panels_text_color": "#999999",
+        "optional_panels_link_color": "#35495E",
+        "optional_panels_icon_color": "#999999",
+        "optional_panels_title_size": "18",
+        "optional_panels_sub_title_size": "12",
+        "optional_panels_text_size": "14",
+        "optional_panels_link_size": "14",
+        "optional_panels_icon_size": "24",
+        "optional_cards_elevation": "0",
+        "optional_cards_radius_top_right": "5",
+        "optional_cards_radius_top_left": "5",
+        "optional_cards_radius_bottom_right": "5",
+        "optional_cards_radius_bottom_left": "5",
+        "optional_cards_border_color": "transparent",
+        "optional_cards_border_width": "0",
+        "optional_cards_bg_color": "#ffffff",
+        "optional_cards_title_color": "#ffffff",
+        "optional_cards_sub_title_color": "#ffffff",
+        "optional_cards_text_color": "#767373",
+        "optional_cards_link_color": "#ffffff",
+        "optional_cards_icon_color": "#ffffff",
+        "optional_cards_title_size": "14",
+        "optional_cards_sub_title_size": "12",
+        "optional_cards_text_size": "14",
+        "optional_cards_link_size": "14",
+        "optional_cards_icon_size": "35",
+        "optional_no_panels_title_color": "#333333",
+        "optional_no_panels_sub_title_color": "#666666",
+        "optional_no_panels_text_color": "#999999",
+        "optional_no_panels_link_color": "#35495E",
+        "optional_no_panels_icon_color": "#999999",
+        "optional_no_panels_title_size": "18",
+        "optional_no_panels_sub_title_size": "12",
+        "optional_no_panels_text_size": "14",
+        "optional_no_panels_link_size": "14",
+        "optional_no_panels_icon_size": "24",
+        "optional_lists_elevation": "0",
+        "optional_lists_element_elevation": "none",
+        "optional_lists_radius_top_right": "0",
+        "optional_lists_radius_top_left": "0",
+        "optional_lists_radius_bottom_right": "0",
+        "optional_lists_radius_bottom_left": "0",
+        "optional_lists_border_color": "#EEEEEE",
+        "optional_lists_border_width": "1",
+        "optional_lists_bg_color": "#EEEEEE",
+        "optional_lists_title_color": "#333333",
+        "optional_lists_text_color": "#999999",
+        "optional_lists_link_color": "#35495E",
+        "optional_lists_icon_color": "#999999",
+        "optional_lists_title_size": "16",
+        "optional_lists_text_size": "14",
+        "optional_lists_link_size": "14",
+        "optional_lists_icon_size": "24",
+        "optional_messages_radius_top_right": "4",
+        "optional_messages_radius_top_left": "4",
+        "optional_messages_radius_bottom_right": "4",
+        "optional_messages_radius_bottom_left": "4",
+        "optional_messages_border_color": "transparent",
+        "optional_messages_border_width": "0",
+        "optional_messages_bg_color": "#EEEEEE",
+        "optional_messages_title_color": "#333333",
+        "optional_messages_text_color": "#999999",
+        "optional_messages_link_color": "#35495E",
+        "optional_messages_title_size": "14",
+        "optional_messages_text_size": "14",
+        "optional_messages_link_size": "14",
+        "optional_toast_elevation": "8",
+        "optional_toast_radius_top_right": "20",
+        "optional_toast_radius_top_left": "20",
+        "optional_toast_radius_bottom_right": "0",
+        "optional_toast_radius_bottom_left": "0",
+        "optional_toast_border_color": "transparent",
+        "optional_toast_border_width": "0",
+        "optional_toast_bg_color": "#373737",
+        "optional_toast_text_color": "#ffffff",
+        "optional_toast_link_color": "#35495E",
+        "optional_toast_text_size": "14",
+        "optional_toast_link_size": "14",
+        "optional_slideshow_elevation": "0",
+        "optional_slideshow_radius_top_right": "20",
+        "optional_slideshow_radius_top_left": "20",
+        "optional_slideshow_radius_bottom_right": "20",
+        "optional_slideshow_radius_bottom_left": "20",
+        "optional_slideshow_border_color": "transparent",
+        "optional_slideshow_border_width": "0",
+        "optional_slideshow_title_color": "#ffffff",
+        "optional_slideshow_title_size": "16",
+        "optional_slideshow_sub_title_color": "#ffffff",
+        "optional_slideshow_sub_title_size": "14",
+        "optional_slideshow_indicator_active_color": "rgb(34, 34, 34)",
+        "optional_slideshow_indicator_deactive_color": "rgba(34, 34, 34, 0.5)",
+        "optional_swipe_tab_selected_background_color": "#bdbdbd",
+        "optional_swipe_tab_unselected_background_color": "#ffffff",
+        "optional_swipe_tab_title_selected_color": "#ffffff",
+        "optional_swipe_tab_title_unselected_color": "#333333",
+        "optional_swipe_tab_title_size": "16",
+        "optional_swipe_tab_indicator_width": "2",
+        "optional_swipe_tab_indicator_active_color": "#41B883",
+        "optional_swipe_tab_radius_top_right": "15",
+        "optional_swipe_tab_radius_top_left": "15",
+        "optional_swipe_tab_radius_bottom_right": "15",
+        "optional_swipe_tab_radius_bottom_left": "15",
+        "optional_swipe_tab_border_color": "transparent",
+        "optional_swipe_tab_border_width": "0",
+        "optional_preloader_indicator_color": "#35495E",
+        "optional_preloader_indicator_size": "24",
+        "optional_preloader_text_color": "#333333",
+        "optional_preloader_text_size": "14",
+        "optional_preloader_type": "default",
+        "theme_menu_bg_color": "#fcfcfc",
+        "theme_menu_txt_color": "#787878",
+        "theme_menu_icon_color": "#787878",
+        "theme_menu_border_color": "#fcfcfc",
+        "theme_menu_txt_active_color": "#36babe",
+        "theme_menu_icon_active_color": "#36babe",
+        "theme_menu_content_show_type": "textIcon",
+        "menu_content_type": "custom",
+        "menu_content": "{\"66387dfae82e6c4d220cb203\":1,\"6637463ccc7464de9b01e872\":1,\"663368c9ef8a4bc7cb081dc3\":1,\"663895b8528c732fde0387f2\":0,\"663368c9ef8a4bc7cb081dc6\":0,\"663368caef8a4bc7cb081dca\":0,\"663886a5acde9224070f16a2\":0,\"6638a39b2be0f686f909d465\":1}"
+      }
+    },
+    {
+      "_id": "theme_1",
+      "name": "\u0637\u0631\u0627\u062d\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc 1",
+      "type": "app-bottom-tab",
+      "settings": {
+        "design_type": "optional",
+        "theme_color_key": "color_2",
+        "theme_direction": "rtl",
+        "background_type": "color",
+        "background_color": "#f6f5f5",
+        "background_image": "",
+        "theme_primary_color": "#36babe",
+        "theme_primary_color_txt": "#ffffff",
+        "theme_secondary_color": "#36babe",
+        "theme_secondary_color_txt": "#ffffff",
+        "error_indicator_image": "",
+        "navbar_type": "static",
+        "theme_navbar_title_type": "text",
+        "navbar_image_title": "",
+        "theme_navbar_text_align": "center",
+        "theme_navbar_box_shadow": "no",
+        "optional_buttons_background": "#198480",
+        "optional_buttons_txt_color": "#ffffff",
+        "optional_buttons_elevation": "0",
+        "optional_buttons_text_size": "14",
+        "optional_buttons_radius_top_right": "30",
+        "optional_buttons_radius_top_left": "30",
+        "optional_buttons_radius_bottom_right": "30",
+        "optional_buttons_radius_bottom_left": "30",
+        "optional_buttons_border_color": "transparent",
+        "optional_buttons_border_width": "0",
+        "optional_buttons_icon_color": "#ffffff",
+        "optional_buttons_icon_size": "24",
+        "optional_fab_buttons_background": "#198480",
+        "optional_fab_buttons_txt_color": "#ffffff",
+        "optional_fab_buttons_elevation": "2",
+        "optional_fab_buttons_text_size": "14",
+        "optional_fab_buttons_radius_top_right": "30",
+        "optional_fab_buttons_radius_top_left": "30",
+        "optional_fab_buttons_radius_bottom_right": "30",
+        "optional_fab_buttons_radius_bottom_left": "30",
+        "optional_fab_buttons_border_color": "transparent",
+        "optional_fab_buttons_border_width": "0",
+        "optional_fab_buttons_icon_color": "#ffffff",
+        "optional_fab_buttons_icon_size": "24",
+        "optional_inputs_bg_color": "transparent",
+        "optional_inputs_elevation": "0",
+        "optional_inputs_border_color": "#c1c1c1",
+        "optional_inputs_label_color": "#333333",
+        "optional_inputs_active_border_color": "#35495E",
+        "optional_inputs_active_label_color": "#35495E",
+        "optional_inputs_border_width": "1",
+        "optional_inputs_radius_top_right": "4",
+        "optional_inputs_radius_top_left": "4",
+        "optional_inputs_radius_bottom_right": "4",
+        "optional_inputs_radius_bottom_left": "4",
+        "optional_panels_elevation": "0",
+        "optional_panels_radius_top_right": "10",
+        "optional_panels_radius_top_left": "10",
+        "optional_panels_radius_bottom_right": "10",
+        "optional_panels_radius_bottom_left": "10",
+        "optional_panels_border_color": "transparent",
+        "optional_panels_border_width": "1",
+        "optional_panels_bg_color": "#ffffff",
+        "optional_panels_title_color": "#333333",
+        "optional_panels_sub_title_color": "#666666",
+        "optional_panels_text_color": "#999999",
+        "optional_panels_link_color": "#35495e",
+        "optional_panels_icon_color": "#999999",
+        "optional_panels_title_size": "14",
+        "optional_panels_sub_title_size": "12",
+        "optional_panels_text_size": "13",
+        "optional_panels_link_size": "14",
+        "optional_panels_icon_size": "30",
+        "optional_cards_elevation": "0",
+        "optional_cards_radius_top_right": "5",
+        "optional_cards_radius_top_left": "5",
+        "optional_cards_radius_bottom_right": "5",
+        "optional_cards_radius_bottom_left": "5",
+        "optional_cards_border_color": "transparent",
+        "optional_cards_border_width": "0",
+        "optional_cards_bg_color": "#ffffff",
+        "optional_cards_title_color": "#333333",
+        "optional_cards_sub_title_color": "#666666",
+        "optional_cards_text_color": "#999999",
+        "optional_cards_link_color": "#35495e",
+        "optional_cards_icon_color": "#ffffff",
+        "optional_cards_title_size": "14",
+        "optional_cards_sub_title_size": "12",
+        "optional_cards_text_size": "14",
+        "optional_cards_link_size": "14",
+        "optional_cards_icon_size": "35",
+        "optional_no_panels_title_color": "#333333",
+        "optional_no_panels_sub_title_color": "#666666",
+        "optional_no_panels_text_color": "#999999",
+        "optional_no_panels_link_color": "#35495E",
+        "optional_no_panels_icon_color": "#999999",
+        "optional_no_panels_title_size": "14",
+        "optional_no_panels_sub_title_size": "12",
+        "optional_no_panels_text_size": "14",
+        "optional_no_panels_link_size": "14",
+        "optional_no_panels_icon_size": "24",
+        "optional_lists_elevation": "0",
+        "optional_lists_element_elevation": "none",
+        "optional_lists_radius_top_right": "15",
+        "optional_lists_radius_top_left": "15",
+        "optional_lists_radius_bottom_right": "15",
+        "optional_lists_radius_bottom_left": "15",
+        "optional_lists_border_color": "#EEEEEE",
+        "optional_lists_border_width": "1",
+        "optional_lists_bg_color": "#EEEEEE",
+        "optional_lists_title_color": "#333333",
+        "optional_lists_text_color": "#999999",
+        "optional_lists_link_color": "#35495E",
+        "optional_lists_icon_color": "#999999",
+        "optional_lists_title_size": "14",
+        "optional_lists_text_size": "14",
+        "optional_lists_link_size": "13",
+        "optional_lists_icon_size": "24",
+        "optional_messages_radius_top_right": "4",
+        "optional_messages_radius_top_left": "4",
+        "optional_messages_radius_bottom_right": "4",
+        "optional_messages_radius_bottom_left": "4",
+        "optional_messages_border_color": "transparent",
+        "optional_messages_border_width": "0",
+        "optional_messages_bg_color": "#EEEEEE",
+        "optional_messages_title_color": "#333333",
+        "optional_messages_text_color": "#999999",
+        "optional_messages_link_color": "#35495E",
+        "optional_messages_title_size": "13",
+        "optional_messages_text_size": "13",
+        "optional_messages_link_size": "14",
+        "optional_toast_elevation": "8",
+        "optional_toast_radius_top_right": "20",
+        "optional_toast_radius_top_left": "20",
+        "optional_toast_radius_bottom_right": "0",
+        "optional_toast_radius_bottom_left": "0",
+        "optional_toast_border_color": "transparent",
+        "optional_toast_border_width": "0",
+        "optional_toast_bg_color": "#373737",
+        "optional_toast_text_color": "#ffffff",
+        "optional_toast_link_color": "#35495E",
+        "optional_toast_text_size": "14",
+        "optional_toast_link_size": "14",
+        "optional_slideshow_elevation": "0",
+        "optional_slideshow_radius_top_right": "0",
+        "optional_slideshow_radius_top_left": "0",
+        "optional_slideshow_radius_bottom_right": "0",
+        "optional_slideshow_radius_bottom_left": "0",
+        "optional_slideshow_border_color": "transparent",
+        "optional_slideshow_border_width": "0",
+        "optional_slideshow_title_color": "#ffffff",
+        "optional_slideshow_title_size": "16",
+        "optional_slideshow_sub_title_color": "#ffffff",
+        "optional_slideshow_sub_title_size": "14",
+        "optional_slideshow_indicator_active_color": "rgb(34, 34, 34)",
+        "optional_slideshow_indicator_deactive_color": "rgba(34, 34, 34, 0.5)",
+        "optional_swipe_tab_selected_background_color": "#bdbdbd",
+        "optional_swipe_tab_unselected_background_color": "#ffffff",
+        "optional_swipe_tab_title_selected_color": "#ffffff",
+        "optional_swipe_tab_title_unselected_color": "#333333",
+        "optional_swipe_tab_title_size": "16",
+        "optional_swipe_tab_indicator_width": "2",
+        "optional_swipe_tab_indicator_active_color": "#41B883",
+        "optional_swipe_tab_radius_top_right": "15",
+        "optional_swipe_tab_radius_top_left": "15",
+        "optional_swipe_tab_radius_bottom_right": "15",
+        "optional_swipe_tab_radius_bottom_left": "15",
+        "optional_swipe_tab_border_color": "transparent",
+        "optional_swipe_tab_border_width": "0",
+        "optional_preloader_indicator_color": "#35495E",
+        "optional_preloader_indicator_size": "24",
+        "optional_preloader_text_color": "#333333",
+        "optional_preloader_text_size": "14",
+        "optional_preloader_type": "default",
+        "theme_menu_bg_color": "#fcfcfc",
+        "theme_menu_txt_color": "#787878",
+        "theme_menu_icon_color": "#787878",
+        "theme_menu_border_color": "#fcfcfc",
+        "theme_menu_txt_active_color": "#36babe",
+        "theme_menu_icon_active_color": "#36babe",
+        "theme_menu_content_show_type": "textIcon",
+        "menu_content_type": "custom",
+        "menu_content": "{\"66387dfae82e6c4d220cb203\":1,\"6637463ccc7464de9b01e872\":1,\"663368c9ef8a4bc7cb081dc3\":1,\"663895b8528c732fde0387f2\":0,\"663368c9ef8a4bc7cb081dc6\":0,\"663368caef8a4bc7cb081dca\":0,\"663886a5acde9224070f16a2\":0,\"6638a39b2be0f686f909d465\":1}"
+      }
+    }
+  ],
+  "mobile_demo_time": "20240518172952",
+  "daily_limit": "",
+  "ai_daily_limit": "",
+  "date_added": "20240502134952",
+  "lang": "fa-IR",
+  "font": "",
+  "bk_id": "663368c9ef8a4bc7cb081dc2",
+  "_id": "{{APP_ID}}",
+  "upload_dir": "orqsaiphdl",
+  "login_register_module": "663368c9ef8a4bc7cb081dc3",
+  "pages": {
+    "663368c9ef8a4bc7cb081dc3": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "LoginRegister",
+      "sort": 5500,
+      "slug": "xn-mgbt2cnr63a2s",
+      "name": "\u067e\u0631\u0648\u0641\u0627\u06cc\u0644",
+      "icon": "fa-user",
+      "icon_type": "font",
+      "hidden": 0,
+      "theme_id": "default",
+      "structure": "structure1",
+      "sub_pages": {
+        "profile": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "edit_profile": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "register": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "forgot_password": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "change_password": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "send_activate_code": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "activate": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "upgrade_account": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "block": {
+          "icon": "fa-user",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        }
+      },
+      "sub_pages_router": {
+        "profile": {
+          "base_path": "profile\/",
+          "name": {
+            "fa-IR": "\u067e\u0631\u0648\u0641\u0627\u06cc\u0644"
+          }
+        },
+        "activate": {
+          "base_path": "activate\/",
+          "name": {
+            "fa-IR": "\u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc"
+          }
+        },
+        "change_password": {
+          "base_path": "change_password\/",
+          "name": {
+            "fa-IR": "\u062a\u063a\u06cc\u06cc\u0631 \u06af\u0630\u0631\u0648\u0627\u0698\u0647"
+          }
+        },
+        "upgrade_account": {
+          "base_path": "upgrade_account\/",
+          "name": {
+            "fa-IR": "\u0627\u0631\u062a\u0642\u0627\u0621 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc"
+          }
+        },
+        "forgot_password": {
+          "base_path": "forgot_password\/",
+          "name": {
+            "fa-IR": "\u0641\u0631\u0627\u0645\u0648\u0634 \u06a9\u0631\u062f\u0646 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631"
+          }
+        },
+        "register": {
+          "base_path": "register\/",
+          "name": {
+            "fa-IR": "\u062b\u0628\u062a \u0646\u0627\u0645"
+          }
+        },
+        "send_activate_code": {
+          "base_path": "send_activate_code\/",
+          "name": {
+            "fa-IR": "\u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc"
+          }
+        },
+        "block": {
+          "base_path": "block\/",
+          "name": {
+            "fa-IR": "\u0645\u0633\u062f\u0648\u062f"
+          }
+        },
+        "edit_profile": {
+          "base_path": "edit_profile\/",
+          "name": {
+            "fa-IR": "\u0648\u06cc\u0631\u0627\u06cc\u0634 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644"
+          }
+        }
+      },
+      "date_added": "20240502134953",
+      "bk_id": "663368c9ef8a4bc7cb081dc3",
+      "PAGE_DATA": {
+        "pageData": {
+          "user_id": "{{USER_ID}}",
+          "app_id": "{{APP_ID}}",
+          "page_id": "663368c9ef8a4bc7cb081dc3",
+          "_translate": {
+            "_appUsernameHint": "\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u0632 3 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u06a9\u0645\u062a\u0631 \u0628\u0627\u0634\u062f",
+            "_appPasswordHint": "\u06af\u0630\u0631\u0648\u0627\u0698\u0647 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u0632 6 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u06a9\u0645\u062a\u0631 \u0628\u0627\u0634\u062f",
+            "_appRegister": "\u062d\u0633\u0627\u0628 \u0646\u062f\u0627\u0631\u06cc\u062f\u061f \u062b\u0628\u062a \u0646\u0627\u0645",
+            "_appName": "\u0646\u0627\u0645",
+            "_appPassword": "\u067e\u0633\u0648\u0631\u062f",
+            "_appNameHint": "\u0646\u0627\u0645 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u0632 3 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u06a9\u0645\u062a\u0631 \u0628\u0627\u0634\u062f",
+            "_appLogin": "\u062d\u0633\u0627\u0628 \u062f\u0627\u0631\u06cc\u062f\u061f \u0648\u0631\u0648\u062f",
+            "_appActivePage": "\u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appActiveLabel": "\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc",
+            "_appActiveFieldEmpty": "\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appSendActivePage": "\u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc",
+            "_appNotActive": "\u0627\u06a9\u0627\u0646\u062a \u0641\u0639\u0627\u0644 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appLogout": "\u062e\u0631\u0648\u062c \u0627\u0632 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appPassKey": "\u06a9\u062f \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0644\u0645\u0647 \u0639\u0628\u0648\u0631",
+            "_appPassKeyError": "\u06a9\u062f \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appNewPass": "\u06a9\u0644\u0645\u0647 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f",
+            "_appNewPassRepeat": "\u062a\u06a9\u0631\u0627\u0631 \u06a9\u0644\u0645\u0647 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f",
+            "_appNewPassRepeatError": "\u062a\u06a9\u0631\u0627\u0631 \u06a9\u0644\u0645\u0647 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appNewPassRepeatInvalid": "\u06a9\u0644\u0645\u0647 \u0639\u0628\u0648\u0631 \u0628\u0627 \u062a\u06a9\u0631\u0627\u0631 \u0622\u0646 \u06cc\u06a9\u0633\u0627\u0646 \u0646\u06cc\u0633\u062a",
+            "_appForgotPasswordTitle": "\u0641\u0631\u0627\u0645\u0648\u0634\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631",
+            "_appForgotPasswordDesc": "\u062c\u0647\u062a \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f",
+            "_appFalseInfo": "\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0635\u062d\u06cc\u062d \u0646\u0645\u06cc \u0628\u0627\u0634\u062f",
+            "_appExistEmail": "\u0627\u06cc\u0645\u06cc\u0644 \u0642\u0628\u0644\u0627 \u062b\u0628\u062a \u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appExistMobile": "\u0634\u0645\u0627\u0631\u0647 \u0647\u0645\u0631\u0627\u0647 \u0642\u0628\u0644\u0627 \u062b\u0628\u062a \u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appExistUsername": "\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0642\u0628\u0644\u0627 \u062b\u0628\u062a \u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appTryAgain": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f",
+            "_appSuccess": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+            "_appSendActiveCode": "\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0628\u0631\u0627\u06cc \u0634\u0645\u0627 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f",
+            "_appUsername": "\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appUsernameError": "\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appEmail": "\u0627\u06cc\u0645\u06cc\u0644",
+            "_appEmailSms": "\u0627\u06cc\u0645\u06cc\u0644 \u06cc\u0627 \u0645\u0648\u0628\u0627\u06cc\u0644",
+            "_appCallSms": "\u0645\u0648\u0628\u0627\u06cc\u0644",
+            "_appTextForTtlVerificationCode": "\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc\u060c \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u060c {verificationCode}",
+            "_appTextForTtlVerificationPasswordCode": "\u06a9\u062f \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631\u060c \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u060c {verificationPasswordCode}",
+            "_appTrueActiveCode": "\u062f\u0631\u062d\u0627\u0644 \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0644\u0637\u0641\u0627 \u06a9\u0645\u06cc \u0635\u0628\u0631 \u06a9\u0646\u06cc\u062f",
+            "_appFalseActiveCode": "\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0635\u062d\u06cc\u062d \u0646\u0645\u06cc \u0628\u0627\u0634\u062f",
+            "_appEmailActiveCodeSubject": "\u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646",
+            "_appEmailActiveCodeMsg": "\u06a9\u0627\u0631\u0628\u0631 \u06af\u0631\u0627\u0645\u06cc \u0633\u0644\u0627\u0645\r\n\u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0628\u0631\u0627\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\r\n\u06a9\u062f: {verificationCode}",
+            "_appEmailForgotPasswordSubject": "\u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631",
+            "_appEmailForgotPasswordCodeMsg": "\u06a9\u0627\u0631\u0628\u0631 \u06af\u0631\u0627\u0645\u06cc \u0633\u0644\u0627\u0645\r\n\u06a9\u062f \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0628\u0631\u0627\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\r\n\u06a9\u062f: {verificationPasswordCode}",
+            "_appSendForgotPasswordCode": "\u06a9\u062f \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f",
+            "_appErrorSendForgotPasswordCode": "\u06a9\u062f \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0631\u0633\u0627\u0644 \u0646\u0634\u062f",
+            "_appUserNotActive": "\u0627\u06a9\u0627\u0646\u062a \u0641\u0639\u0627\u0644 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a \u0644\u0637\u0641\u0627 \u0627\u0628\u062a\u062f\u0627 \u0627\u06a9\u0627\u0646\u062a \u062e\u0648\u062f \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f",
+            "_appUserNotExist": "\u0627\u06a9\u0627\u0646\u062a \u062b\u0628\u062a \u0646\u0634\u062f\u0647 \u0627\u0633\u062a \u0644\u0637\u0641\u0627 \u0627\u0628\u062a\u062f\u0627 \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f",
+            "_appUserIsActive": "\u0627\u06a9\u0627\u0646\u062a \u0641\u0639\u0627\u0644 \u0627\u0633\u062a",
+            "_appUserAlreadyActivated": "\u0627\u06a9\u0627\u0646\u062a \u0642\u0628\u0644\u0627 \u0641\u0639\u0627\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appNotChangePassword": "\u062a\u063a\u06cc\u06cc\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0646\u0634\u062f",
+            "_appNotSendActiveCode": "\u0645\u062a\u0627\u0633\u0641\u0627\u0646\u0647 \u0645\u0648\u0641\u0642 \u0628\u0647 \u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0646\u0634\u062f\u06cc\u0645",
+            "_appChangePassword": "\u062a\u063a\u06cc\u06cc\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f",
+            "_appBlockPageBtn": "\u0628\u0627\u0632\u06af\u0634\u062a",
+            "_appBlockPage": "\u0627\u0645\u06a9\u0627\u0646 \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0627\u06cc\u0646 \u0635\u0641\u062d\u0647 \u0628\u0631\u0627\u06cc \u0634\u0645\u0627 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f! \u062f\u0631 \u0635\u0648\u0631\u062a \u0646\u06cc\u0627\u0632 \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f \u06cc\u0627 \u0627\u06a9\u0627\u0646\u062a \u062e\u0648\u062f \u0631\u0627 \u0627\u0631\u062a\u0642\u0627 \u062f\u0647\u06cc\u062f",
+            "_appDescriptionLogin": "\u0648\u0631\u0648\u062f \u0628\u0647 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appBtnLogin": "\u0648\u0631\u0648\u062f",
+            "_appDescriptionRegister": "\u062b\u0628\u062a \u0646\u0627\u0645",
+            "_appBtnRegister": "\u062b\u0628\u062a \u0646\u0627\u0645",
+            "_appDescriptionActiveAccount": "\u062f\u0631 \u0635\u0648\u0631\u062a\u06cc \u06a9\u0647 \u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0628\u0631\u0627\u06cc \u0634\u0645\u0627 \u0627\u0631\u0633\u0627\u0644 \u0646\u0634\u062f\u0647 \u0627\u0632 \u06af\u0632\u06cc\u0646\u0647 \u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f",
+            "_appBtnActiveAccount": "\u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0627\u06a9\u0627\u0646\u062a",
+            "_appDescriptionProfile": "\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appEdit": "\u0648\u06cc\u0631\u0627\u06cc\u0634",
+            "_appExit": "\u062e\u0631\u0648\u062c \u0627\u0632 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appDescriptionForgotPassword": "\u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u06a9\u062f \u0627\u0631\u0633\u0627\u0644 \u0634\u062f\u0647\u060c \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u06cc\u062f",
+            "_appForgotPassword": "\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u0641\u0631\u0627\u0645\u0648\u0634 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u062f\u061f",
+            "_appBtnForgotPassword": "\u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f",
+            "_appDescriptionChangePassword": "\u062c\u0647\u062a \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0628\u062a\u062f\u0627 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0627\u06a9\u0627\u0646\u062a \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f",
+            "_appBtnChangePassword": "\u0648\u06cc\u0631\u0627\u06cc\u0634 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631",
+            "_appDescriptionActivate": "\u062c\u0647\u062a \u0627\u0631\u0633\u0627\u0644 \u0645\u062c\u062f\u062f \u06a9\u062f \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0627\u06a9\u0627\u0646\u062a\u06cc \u06a9\u0647 \u0628\u0627 \u0622\u0646 \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f",
+            "_appBtnActivate": "\u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc",
+            "_appFromError": "\u0644\u0637\u0641\u0627 \u062e\u0637\u0627\u0647\u0627\u06cc \u0641\u0631\u0645 \u0631\u0627 \u0628\u0631\u0637\u0631\u0641 \u0646\u0645\u0627\u06cc\u06cc\u062f",
+            "_appLoginError": "\u0644\u0637\u0641\u0627 \u0627\u0628\u062a\u062f\u0627 \u0648\u0627\u0631\u062f \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc \u062e\u0648\u062f \u0634\u0648\u06cc\u062f",
+            "_appTryAgainBtn": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+            "_appLoadingText": "\u062f\u0631 \u062d\u0627\u0644 \u0627\u0631\u0633\u0627\u0644 \u0627\u0637\u0644\u0627\u0639\u0627\u062a...",
+            "_app_required_error_text": "\u067e\u0631 \u06a9\u0631\u062f\u0646 \u0627\u06cc\u0646 \u0641\u06cc\u0644\u062f \u0627\u062c\u0628\u0627\u0631\u06cc \u0627\u0633\u062a",
+            "_app_email_error_text": "\u0644\u0637\u0641\u0627 \u0627\u06cc\u0645\u06cc\u0644 \u062e\u0648\u062f \u0631\u0627 \u0635\u062d\u06cc\u062d \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f",
+            "_app_mobile_error_text": "\u0644\u0637\u0641\u0627 \u0645\u0648\u0628\u0627\u06cc\u0644 \u062e\u0648\u062f \u0631\u0627 \u0635\u062d\u06cc\u062d \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f",
+            "_app_upgrade_account": "\u0627\u0631\u062a\u0642\u0627\u0621 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_app_validate": "\u0627\u0639\u062a\u0628\u0627\u0631: ",
+            "_app_price": "\u0642\u06cc\u0645\u062a: ",
+            "_app_days": "\u0631\u0648\u0632",
+            "_app_currency": "\u062a\u0648\u0645\u0627\u0646",
+            "_app_description": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a: ",
+            "_app_purchase": "\u062e\u0631\u06cc\u062f",
+            "_app_gateway": "\u0627\u0646\u062a\u062e\u0627\u0628 \u062f\u0631\u06af\u0627\u0647 \u067e\u0631\u062f\u0627\u062e\u062a",
+            "_app_parsian": "\u062f\u0631\u06af\u0627\u0647 \u067e\u0627\u0631\u0633\u06cc\u0627\u0646",
+            "_app_zarinpal": "\u062f\u0631\u06af\u0627\u0647 \u0632\u0631\u06cc\u0646 \u067e\u0627\u0644",
+            "_app_bazaarpay": "\u062f\u0631\u06af\u0627\u0647 \u0628\u0627\u0632\u0627\u0631\u067e\u06cc",
+            "_app_wallet": "\u067e\u0631\u062f\u0627\u062e\u062a \u0627\u0632 \u06a9\u06cc\u0641 \u067e\u0648\u0644",
+            "_app_pay": "\u062f\u0631\u06af\u0627\u0647 \u067e\u06cc",
+            "_app_idpay": "\u062f\u0631\u06af\u0627\u0647 \u0622\u06cc \u062f\u06cc \u067e\u06cc",
+            "_app_cafebazaar": "\u067e\u0631\u062f\u0627\u062e\u062a \u06a9\u0627\u0641\u0647 \u0628\u0627\u0632\u0627\u0631",
+            "_app_myket": "\u067e\u0631\u062f\u0627\u062e\u062a \u0645\u0627\u06cc\u06a9\u062a",
+            "_appSuccessPayment": "\u0628\u0627 \u062a\u0634\u06a9\u0631 \u067e\u0631\u062f\u0627\u062e\u062a \u0634\u0645\u0627 \u0627\u0646\u062c\u0627\u0645 \u0634\u062f",
+            "_app_waiting_gateway": "\u062f\u0631 \u062d\u0627\u0644 \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0631\u0627\u06cc \u067e\u0631\u062f\u0627\u062e\u062a",
+            "_app_upgrade_done": "\u0628\u0627 \u062a\u0634\u06a9\u0631 \u0627\u06a9\u0627\u0646\u062a \u0634\u0645\u0627 \u0627\u0631\u062a\u0642\u0627\u0621 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f",
+            "_app_packages": "\u067e\u06a9\u06cc\u062c\u200c\u0647\u0627",
+            "_app_factors": "\u062e\u0631\u06cc\u062f\u0647\u0627",
+            "_app_factors_empty": "\u0647\u06cc\u0686 \u0641\u0627\u06a9\u062a\u0648\u0631 \u067e\u0631\u062f\u0627\u062e\u062a \u0634\u062f\u0647 \u0627\u06cc \u06cc\u0627\u0641\u062a \u0646\u0634\u062f",
+            "_app_gateway_selected": "\u062f\u0631\u06af\u0627\u0647: ",
+            "_app_gateway_tracking_code": "\u06a9\u062f \u067e\u06cc\u06af\u06cc\u0631\u06cc: ",
+            "_app_factor_date": "\u062a\u0627\u0631\u06cc\u062e \u067e\u0631\u062f\u0627\u062e\u062a: ",
+            "_appRegisterWithoutActiveCode": "\u062b\u0628\u062a \u0646\u0627\u0645 \u0634\u0645\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f \u0627\u0645\u0627 \u0645\u0648\u0641\u0642 \u0628\u0647 \u0627\u0631\u0633\u0627\u0644 \u06a9\u062f \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc \u0646\u0634\u062f\u06cc\u0645 \u0644\u0637\u0641\u0627 \u0628\u0627 \u0645\u062f\u06cc\u0631 \u0627\u067e \u062a\u0645\u0627\u0633 \u062d\u0627\u0635\u0644 \u0646\u0645\u0627\u06cc\u06cc\u062f",
+            "_app_uuid_not_found": "\u06a9\u062f \u062f\u0633\u062a\u06af\u0627\u0647 \u0627\u0631\u0633\u0627\u0644\u06cc \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0645\u06cc\u0628\u0627\u0634\u062f.",
+            "_appProfileImage": "\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "_appNotAllowedValue": "\u062d\u062c\u0645 \u0641\u0627\u06cc\u0644 \u0628\u06cc\u0634 \u0627\u0632 \u062d\u062f \u0645\u062c\u0627\u0632 \u0627\u0633\u062a",
+            "_appNotAllowedFormat": "\u0641\u0631\u0645\u062a \u0641\u0627\u06cc\u0644 \u063a\u06cc\u0631 \u0645\u062c\u0627\u0632 \u0627\u0633\u062a",
+            "_appNotEnoughHost": "\u06a9\u0645\u0628\u0648\u062f \u062d\u062c\u0645 \u0633\u0631\u0648\u0631! \u0644\u0637\u0641\u0627 \u0628\u0627 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u062a\u0645\u0627\u0633 \u062d\u0627\u0635\u0644 \u0646\u0645\u0627\u06cc\u06cc\u062f",
+            "_app_global_error": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+            "_app_success_msg": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+            "_app_refresh_text": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+            "_app_checkbox_confirm": "\u062a\u0627\u06cc\u06cc\u062f",
+            "_app_checkbox_cancel": "\u0628\u0633\u062a\u0646",
+            "_app_calender_close_button": "\u0628\u0633\u062a\u0646",
+            "_app_cancel": "\u0628\u0633\u062a\u0646",
+            "_app_loading": "\u0644\u0637\u0641\u0627 \u0645\u0646\u062a\u0638\u0631 \u0628\u0645\u0627\u0646\u06cc\u062f...",
+            "_app_file_downloading_progress": "\u062f\u0631 \u062d\u0627\u0644 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644",
+            "_app_file_downloading_success": "\u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f. \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0631 \u067e\u0648\u0634\u0647 Downloads \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u0634\u0645\u0627 \u0642\u0627\u0628\u0644 \u0645\u0634\u0627\u0647\u062f\u0647 \u0627\u0633\u062a.",
+            "_app_file_downloading_failed": "\u062e\u0637\u0627 \u062f\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f."
+          },
+          "_designs": {
+            "structure": "structure1",
+            "sub_pages": {
+              "profile": {
+                "structure": "structure1"
+              },
+              "edit_profile": {
+                "structure": "structure1"
+              },
+              "register": {
+                "structure": "structure1"
+              },
+              "forgot_password": {
+                "structure": "structure1"
+              },
+              "change_password": {
+                "structure": "structure1"
+              },
+              "send_activate_code": {
+                "structure": "structure1"
+              },
+              "activate": {
+                "structure": "structure1"
+              },
+              "upgrade_account": {
+                "structure": "structure1"
+              },
+              "block": {
+                "structure": "structure1"
+              }
+            }
+          },
+          "updateDate": "\u06f1\u06f4\u06f0\u06f3\/\u06f0\u06f2\/\u06f2\u06f6",
+          "searchUserInput": "",
+          "user_can_register": "userCanRegister",
+          "active_type_account": "activeWithEmail",
+          "check_uuid": "no",
+          "sender_email": "noreply@appage.online",
+          "smtp_host": "mail.appage.online",
+          "smtp_port": "465",
+          "smtp_type": "ssl",
+          "smtp_password": "",
+          "select_type_sms": "smsir",
+          "url_filed": {
+            "verification_code": "",
+            "verification_password_code": "",
+            "tracking_code_buyer": "",
+            "tracking_code_seller": ""
+          },
+          "secret_key_or_username": "",
+          "webService_key_or_password": "",
+          "template_verification_code": "",
+          "template_verification_password_code": "",
+          "template_tracking_code_buyer": "",
+          "template_tracking_code_seller": "",
+          "login_seller_mobile": "",
+          "payamSoti_username": "",
+          "payamSoti_password": "",
+          "payamSoti_otp_ttl": "otp",
+          "profile_menu": "663368caef8a4bc7cb081dca",
+          "gateways": {
+            "zarinpal": {
+              "pin_code": "",
+              "zaringate_bank_portal": "ZarinGat",
+              "img": "",
+              "use": "0",
+              "zaringate": "0",
+              "sandbox": "0"
+            },
+            "wallet": {
+              "img": "",
+              "use": "0"
+            },
+            "idpay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0",
+              "sandbox": "0"
+            },
+            "pay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0",
+              "sandbox": "0"
+            },
+            "cafebazaar": {
+              "rsa": "",
+              "img": "",
+              "client_id": "",
+              "client_secret": "",
+              "packagename": "",
+              "code": "",
+              "refresh_token": "",
+              "use": "0"
+            },
+            "bazaarpay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0"
+            },
+            "myket": {
+              "public_key": "",
+              "img": "",
+              "x_access_token": "",
+              "packagename": "",
+              "use": "0"
+            }
+          },
+          "searchFactorInput": "",
+          "webhook": "disable",
+          "webhook_link": "",
+          "block_page": [
+            {
+              "type": "none",
+              "link": "",
+              "router": ""
+            }
+          ],
+          "redirect": [
+            {
+              "type": "internal_link",
+              "link": "",
+              "router": ""
+            }
+          ],
+          "can_bookmark": "no"
+        },
+        "roles": [
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "663368c9ef8a4bc7cb081dc3",
+            "is_default": 1,
+            "is_purchase": 0,
+            "name": "\u06a9\u0627\u0631\u0628\u0631",
+            "days": "",
+            "price": "",
+            "description": "",
+            "role_image": "",
+            "sku": "",
+            "date_added": "20240430114925",
+            "bk_id": "663368caef8a4bc7cb081dcd"
+          }
+        ],
+        "users": [
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "663368c9ef8a4bc7cb081dc3",
+            "role_id": "663368caef8a4bc7cb081dcd",
+            "is_login": 0,
+            "is_active": 1,
+            "session_key": "",
+            "active_key": "",
+            "email": "user@user.com",
+            "mobile": "",
+            "username": "",
+            "fullname": "user",
+            "password": "$2y$12$qiSmjpfWRUfdbsgmjynnKuAdF6A3cMLEGmH8i12WMzkGUnBdox4ka",
+            "profile_image": "",
+            "date_access": "",
+            "date_register": "20240501163138",
+            "bk_id": "663368caef8a4bc7cb081dce"
+          }
+        ],
+        "customInputs": [],
+        "customInputAnswers": [],
+        "pagesNeedLogin": [],
+        "factors": []
+      }
+    },
+    "663895b8528c732fde0387f2": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "IntroSlider",
+      "sort": 687.5,
+      "slug": "xn-wgbpzn29d",
+      "name": "\u0645\u0639\u0631\u0641\u06cc",
+      "icon": "fa-object-ungroup",
+      "icon_type": "font",
+      "hidden": 0,
+      "theme_id": "theme_1",
+      "structure": "structure1",
+      "sub_pages": [],
+      "sub_pages_router": [],
+      "date_added": "20240506120256",
+      "bk_id": "663895b8528c732fde0387f2",
+      "PAGE_DATA": {
+        "user_id": "{{USER_ID}}",
+        "app_id": "{{APP_ID}}",
+        "page_id": "663895b8528c732fde0387f2",
+        "_translate": {
+          "_app_skip": "\u0631\u062f \u06a9\u0631\u062f\u0646",
+          "_app_next": "\u0628\u0639\u062f\u06cc",
+          "_app_prev": "\u0642\u0628\u0644\u06cc",
+          "_app_global_error": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+          "_app_success_msg": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+          "_app_refresh_text": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+          "_app_checkbox_confirm": "\u062a\u0627\u06cc\u06cc\u062f",
+          "_app_checkbox_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_calender_close_button": "\u0628\u0633\u062a\u0646",
+          "_app_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_loading": "\u0644\u0637\u0641\u0627 \u0645\u0646\u062a\u0638\u0631 \u0628\u0645\u0627\u0646\u06cc\u062f...",
+          "_app_file_downloading_progress": "\u062f\u0631 \u062d\u0627\u0644 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644",
+          "_app_file_downloading_success": "\u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f. \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0631 \u067e\u0648\u0634\u0647 Downloads \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u0634\u0645\u0627 \u0642\u0627\u0628\u0644 \u0645\u0634\u0627\u0647\u062f\u0647 \u0627\u0633\u062a.",
+          "_app_file_downloading_failed": "\u062e\u0637\u0627 \u062f\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f."
+        },
+        "_designs": {
+          "structure": "structure1"
+        },
+        "is_intro": "0",
+        "skip_action": "internal_link",
+        "skip_action_link": "",
+        "skip_action_router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-zmcqwdj8f3b\/\"}}",
+        "slides": [
+          {
+            "image": "\/uploads\/stocks\/icons\/file\/colorful\/icon19.png",
+            "title": "\u0648\u0631\u0648\u062f \u0628\u0647 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "use_button": "yes",
+            "type": "internal_link",
+            "content": "\u0627\u06cc\u0646 \u06cc\u06a9 \u0642\u0627\u0644\u0628 \u0622\u0645\u0627\u062f\u0647 \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f \u0628\u0647 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0627\u0632 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0632\u06cc\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc : user@user.com \u0648 \u067e\u0633\u0648\u0631\u062f : 123456 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f",
+            "button": "\u0631\u0641\u062a\u0646 \u0628\u0647 \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc",
+            "link": "",
+            "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-zmcqwdj8f3b\/\"}}"
+          },
+          {
+            "image": "\/uploads\/stocks\/icons\/file\/colorful\/icon109.png",
+            "title": "\u0639\u0646\u0648\u0627\u0646",
+            "use_button": "no",
+            "type": "none",
+            "content": "\u0644\u0648\u0631\u0645 \u0627\u06cc\u067e\u0633\u0648\u0645 \u0645\u062a\u0646 \u0633\u0627\u062e\u062a\u06af\u06cc \u0628\u0627 \u062a\u0648\u0644\u06cc\u062f \u0633\u0627\u062f\u06af\u06cc \u0646\u0627\u0645\u0641\u0647\u0648\u0645 \u0627\u0632 \u0635\u0646\u0639\u062a \u0686\u0627\u067e",
+            "button": "",
+            "link": "",
+            "router": ""
+          }
+        ]
+      }
+    },
+    "6637463ccc7464de9b01e872": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "FileShop",
+      "sort": 2750,
+      "slug": "xn-ymcb1bp0fezxh84idk",
+      "name": "فروشگاه فایل",
+      "icon": "fa-braille",
+      "icon_type": "font",
+      "hidden": 0,
+      "theme_id": "default",
+      "structure": "structure1",
+      "sub_pages": {
+        "category_list": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "sub_category_list": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "product": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "free_products": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "shop_cart": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "category": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "last_products": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "special": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "search": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "comment": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "add_comment": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "product_desc": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "my_shopping_list": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        },
+        "success_payment": {
+          "icon": "fa-file",
+          "icon_type": "font",
+          "theme_id": "default",
+          "structure": "structure1"
+        }
+      },
+      "sub_pages_router": {
+        "category_list": {
+          "base_path": "category_list\/",
+          "name": {
+            "fa-IR": "\u0644\u06cc\u0633\u062a \u062f\u0633\u062a\u0647\u200c\u0647\u0627"
+          }
+        },
+        "sub_category_list": {
+          "base_path": "sub_category_list\/",
+          "name": {
+            "fa-IR": "\u0644\u06cc\u0633\u062a \u0632\u06cc\u0631 \u062f\u0633\u062a\u0647\u200c\u0647\u0627"
+          }
+        },
+        "product": {
+          "base_path": "product\/",
+          "args": [
+            ":id"
+          ],
+          "name": {
+            "fa-IR": "\u06cc\u06a9 \u0645\u062d\u0635\u0648\u0644"
+          }
+        },
+        "shop_cart": {
+          "base_path": "shop_cart\/",
+          "name": {
+            "fa-IR": "\u0633\u0628\u062f \u062e\u0631\u06cc\u062f"
+          }
+        },
+        "last_products": {
+          "base_path": "last_products\/",
+          "name": {
+            "fa-IR": "\u0622\u062e\u0631\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644\u0627\u062a"
+          }
+        },
+        "category": {
+          "base_path": "category\/",
+          "args": [
+            ":id",
+            ":name",
+            ":hasImage"
+          ],
+          "name": {
+            "fa-IR": "\u06cc\u06a9 \u062f\u0633\u062a\u0647"
+          }
+        },
+        "special": {
+          "base_path": "special\/",
+          "name": {
+            "fa-IR": "\u0648\u06cc\u0698\u0647\u200c\u0647\u0627"
+          }
+        },
+        "search": {
+          "base_path": "search\/",
+          "name": {
+            "fa-IR": "\u062c\u0633\u062a\u062c\u0648"
+          }
+        },
+        "comment": {
+          "base_path": "comment\/",
+          "name": {
+            "fa-IR": "\u062f\u06cc\u062f\u06af\u0627\u0647\u200c\u0647\u0627"
+          }
+        },
+        "add_comment": {
+          "base_path": "add_comment\/",
+          "args": [
+            ":id"
+          ],
+          "name": {
+            "fa-IR": "\u0627\u0641\u0632\u0648\u062f\u0646 \u062f\u06cc\u062f\u06af\u0627\u0647"
+          }
+        },
+        "product_desc": {
+          "base_path": "product_desc\/",
+          "name": {
+            "fa-IR": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0645\u062d\u0635\u0648\u0644"
+          }
+        },
+        "my_shopping_list": {
+          "base_path": "my_shopping_list\/",
+          "name": {
+            "fa-IR": "\u0644\u06cc\u0633\u062a \u062e\u0631\u06cc\u062f\u0647\u0627"
+          }
+        },
+        "success_payment": {
+          "base_path": "success_payment\/",
+          "name": {
+            "fa-IR": "\u067e\u0631\u062f\u0627\u062e\u062a \u0645\u0648\u0641\u0642"
+          }
+        },
+        "sub_category": {
+          "base_path": "sub_category\/",
+          "args": [
+            ":id"
+          ],
+          "name": {
+            "fa-IR": "\u0632\u06cc\u0631 \u062f\u0633\u062a\u0647"
+          }
+        },
+        "free_products": {
+          "base_path": "free_products\/",
+          "name": {
+            "fa-IR": "\u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0631\u0627\u06cc\u06af\u0627\u0646"
+          }
+        },
+        "comments_tab": {
+          "base_path": "comments_tab\/",
+          "name": {
+            "fa-IR": ""
+          }
+        },
+        "downloads_list_str1": {
+          "base_path": "downloads_list_str1\/",
+          "name": {
+            "fa-IR": ""
+          }
+        },
+        "downloads_list_str2": {
+          "base_path": "downloads_list_str2\/",
+          "name": {
+            "fa-IR": ""
+          }
+        },
+        "factors_list_str1": {
+          "base_path": "factors_list_str1\/",
+          "name": {
+            "fa-IR": ""
+          }
+        },
+        "factors_list_str2": {
+          "base_path": "factors_list_str2\/",
+          "name": {
+            "fa-IR": ""
+          }
+        }
+      },
+      "date_added": "20240505121132",
+      "bk_id": "6637463ccc7464de9b01e872",
+      "PAGE_DATA": {
+        "pageData": {
+          "user_id": "{{USER_ID}}",
+          "app_id": "{{APP_ID}}",
+          "page_id": "6637463ccc7464de9b01e872",
+          "_translate": {
+            "_appTryAgain": "\u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f",
+            "_appSuccessPayment": "\u062e\u0631\u06cc\u062f \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f",
+            "_appShowMore": "\u0646\u0645\u0627\u06cc\u0634 \u0628\u06cc\u0634\u062a\u0631",
+            "_appAmazing": "\u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0634\u06af\u0641\u062a \u0627\u0646\u06af\u06cc\u0632",
+            "_appMore": "\u0628\u06cc\u0634\u062a\u0631",
+            "_appFavorites": "\u0645\u062d\u0628\u0648\u0628 \u0647\u0627",
+            "_appSearch": "\u062c\u0633\u062a\u062c\u0648 \u062f\u0631 \u0641\u06cc\u062f\u06cc\u0628\u0648",
+            "_appFilter": "\u062c\u0633\u062a\u062c\u0648\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647",
+            "_appCancel": "\u0627\u0646\u0635\u0631\u0627\u0641",
+            "_appDoFilter": "\u0627\u0639\u0645\u0627\u0644 \u0641\u06cc\u0644\u062a\u0631",
+            "_appSort": "\u0645\u0631\u062a\u0628 \u0633\u0627\u0632\u06cc",
+            "_appDescription": "\u062a\u0648\u0636\u06cc\u062d\u0627\u062a",
+            "_appComments": "\u0646\u0638\u0631\u0627\u062a",
+            "_appSpecifications": "\u0645\u0634\u062e\u0635\u0627\u062a",
+            "_appAttributes": "\u0648\u06cc\u0698\u06af\u06cc \u0647\u0627",
+            "_appAddToCart": "\u0627\u0641\u0632\u0648\u062f\u0646 \u0628\u0647 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f",
+            "_appShare": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc",
+            "_appAddComment": "\u0627\u06cc\u062c\u0627\u062f \u0646\u0638\u0631",
+            "_appDiscount": "\u06a9\u062f \u062a\u062e\u0641\u06cc\u0641",
+            "_appAddCode": "\u062b\u0628\u062a \u06a9\u062f",
+            "_appCommodityPrices": "\u0642\u06cc\u0645\u062a \u06a9\u0627\u0644\u0627\u0647\u0627",
+            "_appDiscountCommodity": "\u062a\u062e\u0641\u06cc\u0641 \u06a9\u0627\u0644\u0627\u0647\u0627",
+            "_appPricePayable": "\u0642\u06cc\u0645\u062a \u0642\u0627\u0628\u0644 \u067e\u0631\u062f\u0627\u062e\u062a",
+            "_appContinueTheBuying": "\u0627\u062f\u0627\u0645\u0647 \u0641\u0631\u0627\u06cc\u0646\u062f \u062e\u0631\u06cc\u062f",
+            "_appSubmitComment": "\u062b\u0628\u062a \u0646\u0638\u0631",
+            "_appCategories": "\u062f\u0633\u062a\u0647 \u0647\u0627",
+            "_appBackToHome": "\u0628\u0627\u0632\u06af\u0634\u062a \u0628\u0647 \u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc",
+            "_appAll": "\u0647\u0645\u0647",
+            "_appNoInfo": "\u0647\u06cc\u0686 \u0645\u0637\u0644\u0628\u06cc \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f",
+            "_appSuccessComment": "\u0646\u0638\u0631 \u0634\u0645\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u062b\u0628\u062a \u0634\u062f",
+            "_appLackOfInventoryError": "\u06a9\u0627\u0644\u0627\u06cc\u06cc \u0628\u0627 \u0648\u06cc\u0698\u06af\u06cc \u0647\u0627\u06cc \u0627\u0646\u062a\u062e\u0627\u0628\u06cc \u0634\u0645\u0627 \u0645\u0648\u062c\u0648\u062f \u0646\u06cc\u0633\u062a",
+            "_appCommentNeedLogin": "\u0628\u0631\u0627\u06cc \u0627\u06cc\u062c\u0627\u062f \u0646\u0638\u0631 \u0627\u0628\u062a\u062f\u0627 \u0628\u0627\u06cc\u062f \u0644\u0627\u06af\u06cc\u0646 \u06a9\u0646\u06cc\u062f",
+            "_appCommentCantBeEmpty": "\u067e\u06cc\u0627\u0645 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appCommentMsgError": "\u067e\u06cc\u0627\u0645 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u0632 \u06f2 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u06a9\u0645\u062a\u0631 \u0628\u0627\u0634\u062f",
+            "_appCommentNameEmpty": "\u0646\u0627\u0645 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062e\u0627\u0644\u06cc \u0628\u0627\u0634\u062f",
+            "_appCommentNameError": "\u0646\u0627\u0645 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u0632 \u06f3 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u06a9\u0645\u062a\u0631 \u0628\u0627\u0634\u062f",
+            "_appErrorComment": "\u062e\u0637\u0627 \u0647\u0627\u06cc \u0641\u0631\u0645 \u0631\u0627 \u0628\u0631\u0637\u0631\u0641 \u06a9\u0646\u06cc\u062f",
+            "_appViewNumbers": "\u062a\u0639\u062f\u0627\u062f \u0628\u0627\u0632\u062f\u06cc\u062f",
+            "_appCommentUserName": "\u0646\u0627\u0645",
+            "_appCommentText": "\u0645\u062a\u0646 \u0646\u0638\u0631",
+            "_appRateOfProduct": "\u0627\u0645\u062a\u06cc\u0627\u0632 \u0628\u0647 \u0645\u062d\u0635\u0648\u0644 \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u0634\u062f\u0647",
+            "_appTargetRangeSlider": "\u0645\u062d\u062f\u0648\u062f\u0647 \u0642\u06cc\u0645\u062a \u0645\u062f\u0646\u0638\u0631",
+            "_appBestsellers": "\u067e\u0631\u0641\u0631\u0648\u0634 \u062a\u0631\u06cc\u0646",
+            "_appPopular": "\u0645\u062d\u0628\u0648\u0628 \u062a\u0631\u06cc\u0646",
+            "_appCheap": "\u0627\u0631\u0632\u0627\u0646 \u062a\u0631\u06cc\u0646",
+            "_appExpensive": "\u06af\u0631\u0627\u0646 \u062a\u0631\u06cc\u0646",
+            "_appNew": "\u062c\u062f\u06cc\u062f \u062a\u0631\u06cc\u0646",
+            "_appViews": "\u067e\u0631\u0628\u0627\u0632\u062f\u06cc\u062f \u062a\u0631\u06cc\u0646",
+            "_appAddedToShopCartSuccessfully": "\u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u0628\u0647 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f \u0634\u0645\u0627 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+            "_appShippingCost": "\u0647\u0632\u06cc\u0646\u0647 \u0627\u0631\u0633\u0627\u0644",
+            "_appTaxAmount": "\u0645\u0628\u0644\u063a \u0645\u0627\u0644\u06cc\u0627\u062a",
+            "_appUnavailableCommodity": "\u0646\u0627\u0645\u0648\u062c\u0648\u062f",
+            "_appGoToShopCart": "\u0645\u0634\u0627\u0647\u062f\u0647 \u062f\u0631 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f",
+            "_appSuccessDiscountCode": "\u06a9\u062f \u062a\u062e\u0641\u06cc\u0641 \u0627\u0639\u0645\u0627\u0644 \u0634\u062f",
+            "_appFalseDiscountCode": "\u06a9\u062f \u062a\u062e\u0641\u06cc\u0641 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a",
+            "_appMoreThanInventory": "\u062e\u0631\u06cc\u062f \u0628\u06cc\u0634 \u0627\u0632 \u062d\u062f \u0645\u062c\u0627\u0632",
+            "_appAddress": "\u0622\u062f\u0631\u0633",
+            "_appPostalCode": "\u06a9\u062f \u067e\u0633\u062a\u06cc",
+            "_appFullName": "\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645 \u062e\u0627\u0646\u0648\u0627\u062f\u06af\u06cc",
+            "_appMobile": "\u0634\u0645\u0627\u0631\u0647 \u0647\u0645\u0631\u0627\u0647",
+            "_appEmail": "\u0627\u06cc\u0645\u06cc\u0644",
+            "_appLocation": "\u0645\u0648\u0642\u0639\u06cc\u062a \u0645\u06a9\u0627\u0646\u06cc \u0631\u0648\u06cc \u0646\u0642\u0634\u0647",
+            "_appReceiverAddress": "\u0622\u062f\u0631\u0633 \u06af\u06cc\u0631\u0646\u062f\u0647",
+            "_appReceiverSpecs": "\u0645\u0634\u062e\u0635\u0627\u062a \u06af\u06cc\u0631\u0646\u062f\u0647",
+            "_appWrongDiscountCodeError": "\u06a9\u062f \u062a\u062e\u0641\u06cc\u0641 \u062d\u062f\u0627\u0642\u0644 \u0634\u0627\u0645\u0644 6 \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u0645\u06cc \u0628\u0627\u0634\u062f!",
+            "_appRemove": "\u062d\u0630\u0641",
+            "_appRemoveItemFromShopCart": "\u062d\u0630\u0641 \u0645\u062d\u0635\u0648\u0644 \u0627\u0632 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f",
+            "_appRemoveItemFromShopCartQuestion": "\u0622\u06cc\u0627 \u0627\u0632 \u062d\u0630\u0641 \u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u0627\u0632 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f \u062e\u0648\u062f \u0627\u0637\u0645\u06cc\u0646\u0627\u0646 \u062f\u0627\u0631\u06cc\u062f\u061f",
+            "_appEmptyShopCart": "\u0633\u0628\u062f \u062e\u0631\u06cc\u062f \u0634\u0645\u0627 \u062e\u0627\u0644\u06cc \u0627\u0633\u062a!",
+            "_appMinOrderPrice": "\u062d\u062f\u0627\u0642\u0644 \u0645\u0628\u0644\u063a \u062e\u0631\u06cc\u062f \u0627\u06cc\u0646 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 {minPrice} \u062a\u0648\u0645\u0627\u0646 \u0645\u06cc \u0628\u0627\u0634\u062f",
+            "_appShopCartItemsUpdated": "\u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0645\u0648\u062c\u0648\u062f \u062f\u0631 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f \u0634\u0645\u0627 \u0622\u067e\u062f\u06cc\u062a \u0634\u062f\u0647 \u0627\u0633\u062a. \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u0622\u0646\u0647\u0627 \u0631\u0627 \u0628\u0631\u0631\u0633\u06cc \u0646\u0645\u0627\u06cc\u06cc\u062f.",
+            "_appNoProducts": "\u0647\u06cc\u0686 \u0645\u062d\u0635\u0648\u0644\u06cc \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f",
+            "_appSelectPaymentGateway": "\u0627\u0646\u062a\u062e\u0627\u0628 \u062f\u0631\u06af\u0627\u0647 \u067e\u0631\u062f\u0627\u062e\u062a",
+            "_appPayment": "\u067e\u0631\u062f\u0627\u062e\u062a",
+            "_appRegisteredDiscountPrice": "\u0645\u0628\u0644\u063a \u062a\u062e\u0641\u06cc\u0641 \u0627\u0639\u0645\u0627\u0644 \u0634\u062f\u0647",
+            "_appRequiredErrorText": "\u067e\u0631 \u06a9\u0631\u062f\u0646 \u0627\u06cc\u0646 \u0641\u06cc\u0644\u062f \u0627\u0644\u0632\u0627\u0645\u06cc \u0627\u0633\u062a",
+            "_appRegisterAddress": "\u062b\u0628\u062a \u0622\u062f\u0631\u0633",
+            "_appMobileErrorText": "\u0634\u0645\u0627\u0631\u0647 \u0647\u0645\u0631\u0627\u0647 \u0648\u0627\u0631\u062f \u0634\u062f\u0647 \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a",
+            "_appEmailErrorText": "\u0622\u062f\u0631\u0633 \u0627\u06cc\u0645\u06cc\u0644 \u0648\u0627\u0631\u062f \u0634\u062f\u0647 \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a",
+            "_appErrorMoreThanOneProduct": "\u0628\u0647 \u062f\u0644\u06cc\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u062f\u0631\u06af\u0627\u0647 \u067e\u0631\u062f\u0627\u062e\u062a \u0647\u0627\u06cc \u06a9\u0627\u0641\u0647 \u0628\u0627\u0632\u0627\u0631 \u06cc\u0627 \u0645\u0627\u06cc\u06a9\u062a \u062f\u0631 \u0627\u06cc\u0646 \u0641\u0631\u0648\u0634\u06af\u0627\u0647\u060c \u0627\u0645\u06a9\u0627\u0646 \u0627\u0641\u0632\u0648\u062f\u0646 \u0628\u06cc\u0634 \u0627\u0632 \u06cc\u06a9 \u0645\u062d\u0635\u0648\u0644 \u0628\u0647 \u0633\u0628\u062f \u062e\u0631\u06cc\u062f \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f",
+            "_appPaymentErrorTryAgain": "\u062e\u0637\u0627 \u062f\u0631 \u067e\u0631\u062f\u0627\u062e\u062a! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f",
+            "_appMyShoppingList": "\u062e\u0631\u06cc\u062f\u0647\u0627\u06cc \u0645\u0646",
+            "_appMyShoppingListError": "\u062c\u0647\u062a \u0645\u0634\u0627\u0647\u062f\u0647 \u06cc \u0633\u0648\u0627\u0628\u0642 \u062e\u0631\u06cc\u062f \u062e\u0648\u062f\u060c \u0644\u0627\u0632\u0645 \u0627\u0633\u062a \u0627\u0628\u062a\u062f\u0627 \u0644\u0627\u06af\u06cc\u0646 \u06a9\u0646\u06cc\u062f",
+            "_appTrackingCode": "\u06a9\u062f \u0631\u0647\u06af\u06cc\u0631\u06cc",
+            "_appPurchaseDate": "\u062a\u0627\u0631\u06cc\u062e \u062e\u0631\u06cc\u062f",
+            "_appPaidAmount": "\u0645\u0628\u0644\u063a \u067e\u0631\u062f\u0627\u062e\u062a \u0634\u062f\u0647",
+            "_appNewestProducts": "\u062c\u062f\u06cc\u062f\u062a\u0631\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644\u0627\u062a",
+            "_appGoToLoginPage": "\u0631\u0641\u062a\u0646 \u0628\u0647 \u0635\u0641\u062d\u0647 \u0648\u0631\u0648\u062f",
+            "_appEmailSubjectSuccessPurchase": "\u062e\u0631\u06cc\u062f \u0634\u0645\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f",
+            "_appEmailSuccessPurchase": "\u06a9\u0627\u0631\u0628\u0631 \u06af\u0631\u0627\u0645\u06cc \u0633\u0644\u0627\u0645\r\n\u062e\u0631\u06cc\u062f \u0634\u0645\u0627 \u062f\u0631 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f\r\n\u06a9\u062f\u067e\u06cc\u06af\u06cc\u0631\u06cc: {trackingCode}",
+            "_appVideos": "\u0648\u06cc\u062f\u0626\u0648\u0647\u0627",
+            "_appFree": "\u0631\u0627\u06cc\u06af\u0627\u0646",
+            "_appFreeProducts": "\u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0631\u0627\u06cc\u06af\u0627\u0646",
+            "_appNeedToLoginForShop": "\u062c\u0647\u062a \u0627\u0646\u062c\u0627\u0645 \u0641\u0631\u0627\u06cc\u0646\u062f \u062e\u0631\u06cc\u062f\u060c \u0644\u0627\u0632\u0645 \u0627\u0633\u062a \u0627\u0628\u062a\u062f\u0627 \u0644\u0627\u06af\u06cc\u0646 \u06a9\u0646\u06cc\u062f",
+            "_appOk": "\u0645\u062a\u0648\u062c\u0647 \u0634\u062f\u0645",
+            "_appFactors": "\u0641\u0627\u06a9\u062a\u0648\u0631\u0647\u0627",
+            "_appDownloads": "\u062f\u0627\u0646\u0644\u0648\u062f\u0647\u0627",
+            "_appPurchasedItemError": "\u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u0642\u0628\u0644\u0627 \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a",
+            "_appRateReqError": "\u0628\u0647 \u0645\u062d\u0635\u0648\u0644 \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u0634\u062f\u0647 \u06cc \u062e\u0648\u062f \u0627\u0645\u062a\u06cc\u0627\u0632 \u062f\u0647\u06cc\u062f",
+            "_app_parsian": "\u062f\u0631\u06af\u0627\u0647 \u067e\u0627\u0631\u0633\u06cc\u0627\u0646",
+            "_app_zarinpal": "\u062f\u0631\u06af\u0627\u0647 \u0632\u0631\u06cc\u0646 \u067e\u0627\u0644",
+            "_app_bazaarpay": "\u062f\u0631\u06af\u0627\u0647 \u0628\u0627\u0632\u0627\u0631\u067e\u06cc",
+            "_app_wallet": "\u067e\u0631\u062f\u0627\u062e\u062a \u0627\u0632 \u06a9\u06cc\u0641 \u067e\u0648\u0644",
+            "_app_pay": "\u062f\u0631\u06af\u0627\u0647 \u067e\u06cc",
+            "_app_idpay": "\u062f\u0631\u06af\u0627\u0647 \u0622\u06cc \u062f\u06cc \u067e\u06cc",
+            "_app_cafebazaar": "\u067e\u0631\u062f\u0627\u062e\u062a \u06a9\u0627\u0641\u0647 \u0628\u0627\u0632\u0627\u0631",
+            "_app_myket": "\u067e\u0631\u062f\u0627\u062e\u062a \u0645\u0627\u06cc\u06a9\u062a",
+            "_appOpen": "\u0628\u0627\u0632 \u06a9\u0631\u062f\u0646",
+            "_appDownload": "\u062f\u0627\u0646\u0644\u0648\u062f",
+            "_appOpenFileError": "\u0627\u0645\u06a9\u0627\u0646 \u0628\u0627\u0632 \u06a9\u0631\u062f\u0646 \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f! \u0634\u0645\u0627 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u067e\u0648\u0634\u0647 \u06cc \u062f\u0627\u0646\u0644\u0648\u062f\u0647\u0627\u06cc \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u062e\u0648\u062f\u060c \u0628\u0647 \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0633\u062a\u0631\u0633\u06cc \u062e\u0648\u0627\u0647\u06cc\u062f \u062f\u0627\u0634\u062a",
+            "_app_global_error": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+            "_app_success_msg": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+            "_app_refresh_text": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+            "_app_checkbox_confirm": "\u062a\u0627\u06cc\u06cc\u062f",
+            "_app_checkbox_cancel": "\u0628\u0633\u062a\u0646",
+            "_app_calender_close_button": "\u0628\u0633\u062a\u0646",
+            "_app_cancel": "\u0628\u0633\u062a\u0646",
+            "_app_loading": "\u0644\u0637\u0641\u0627 \u0645\u0646\u062a\u0638\u0631 \u0628\u0645\u0627\u0646\u06cc\u062f...",
+            "_app_file_downloading_progress": "\u062f\u0631 \u062d\u0627\u0644 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644",
+            "_app_file_downloading_success": "\u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f. \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0631 \u067e\u0648\u0634\u0647 Downloads \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u0634\u0645\u0627 \u0642\u0627\u0628\u0644 \u0645\u0634\u0627\u0647\u062f\u0647 \u0627\u0633\u062a.",
+            "_app_file_downloading_failed": "\u062e\u0637\u0627 \u062f\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f."
+          },
+          "_designs": {
+            "structure": "structure4",
+            "sub_pages": {
+              "category_list": {
+                "structure": "structure1"
+              },
+              "sub_category_list": {
+                "structure": "structure1"
+              },
+              "product": {
+                "structure": "structure1"
+              },
+              "free_products": {
+                "structure": "structure1"
+              },
+              "shop_cart": {
+                "structure": "structure1"
+              },
+              "category": {
+                "structure": "structure1"
+              },
+              "last_products": {
+                "structure": "structure1"
+              },
+              "special": {
+                "structure": "structure1"
+              },
+              "search": {
+                "structure": "structure1"
+              },
+              "comment": {
+                "structure": "structure1"
+              },
+              "add_comment": {
+                "structure": "structure1"
+              },
+              "product_desc": {
+                "structure": "structure1"
+              },
+              "my_shopping_list": {
+                "structure": "structure1"
+              },
+              "success_payment": {
+                "structure": "structure1"
+              }
+            }
+          },
+          "currency": "toman",
+          "currency_farsi": "\u062a\u0648\u0645\u0627\u0646",
+          "comment_setting": "no_comment",
+          "date_setting": "jalali",
+          "comment_need_accept": "1",
+          "slideshow_setting": {
+            "type": "online",
+            "move": "automatic",
+            "intervalTime": "4",
+            "indicator": "1",
+            "height": "0"
+          },
+          "share_info": {
+            "share": "1",
+            "text": "",
+            "link": ""
+          },
+          "can_bookmark": "yes",
+          "after_purchase_action": "none",
+          "after_purchase_action_link": "",
+          "after_purchase_action_router": "",
+          "gateways": {
+            "zarinpal": {
+              "use": "1",
+              "pin_code": "test",
+              "zaringate_bank_portal": "ZarinGat",
+              "sandbox": "1",
+              "img": "",
+              "zaringate": "0"
+            },
+            "wallet": {
+              "img": "",
+              "use": "0"
+            },
+            "idpay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0",
+              "sandbox": "0"
+            },
+            "pay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0",
+              "sandbox": "0"
+            },
+            "cafebazaar": {
+              "rsa": "",
+              "img": "",
+              "client_id": "",
+              "client_secret": "",
+              "packagename": "",
+              "code": "",
+              "refresh_token": "",
+              "use": "0"
+            },
+            "bazaarpay": {
+              "pin_code": "",
+              "img": "",
+              "use": "0"
+            },
+            "myket": {
+              "public_key": "",
+              "img": "",
+              "x_access_token": "",
+              "packagename": "",
+              "use": "0"
+            }
+          },
+          "send_factor": "sendWithEmail",
+          "sender_email": "noreply@appage.online",
+          "email_smtp_host": "mail.appage.online",
+          "email_smtp_port": "465",
+          "email_smtp_type": "ssl",
+          "email_smtp_password": "",
+          "seller_email": "",
+          "select_type_sms": "smsir",
+          "url_filed": "",
+          "secret_key_or_username": "",
+          "webService_key_or_password": "",
+          "template_confirm_buy_customer": "",
+          "template_confirm_buy_seller": "",
+          "seller_mobile": "",
+          "special_cover": "",
+          "success_payment_image": "",
+          "empty_shop_cart_image": "",
+          "new_products_image": "",
+          "free_products_image": "",
+          "banner_slideshow_setting": {
+            "type": "online",
+            "move": "automatic",
+            "intervalTime": "4",
+            "indicator": "1",
+            "height": "160"
+          },
+          "ads_slideshow_setting": {
+            "type": "online",
+            "move": "automatic",
+            "intervalTime": "4",
+            "indicator": "1",
+            "height": "120"
+          },
+          "show_number_buy": "0",
+          "special_active": "0",
+          "free_active": "0",
+          "pre_factor": "0",
+          "connect_to_login": "connectToLogin",
+          "gateway_type": "ipg",
+          "special_text": "",
+          "slideshow": [],
+          "banner_slideshow": [],
+          "ads_slideshow": []
+        },
+        "categories": [
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "name": "\u06a9\u062a\u0627\u0628 \u0645\u062a\u0646\u06cc",
+            "parent": "",
+            "image": "\/uploads\/stocks\/icons\/content\/colorful\/icon119.png",
+            "children": [],
+            "icon": "",
+            "color": "",
+            "date": "20240506102900",
+            "bk_id": "66388204ba4e0eb4d304e402",
+            "sub": []
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "name": "\u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc",
+            "parent": "",
+            "image": "\/uploads\/stocks\/icons\/content\/colorful\/icon364.png",
+            "children": [],
+            "icon": "",
+            "color": "",
+            "date": "20240506103900",
+            "bk_id": "66388384ba4e0eb4d304e404",
+            "sub": []
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "name": "\u06a9\u062a\u0627\u0628 \u0631\u0627\u06cc\u06af\u0627\u0646",
+            "parent": "",
+            "image": "\/uploads\/stocks\/icons\/content\/colorful\/icon336.png",
+            "children": [],
+            "icon": "",
+            "color": "",
+            "date": "20240506104500",
+            "bk_id": "663883daefc9d7753300a073",
+            "sub": []
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "name": "\u0645\u062c\u0644\u0647",
+            "parent": "",
+            "image": "\/uploads\/stocks\/icons\/content\/colorful\/icon147.png",
+            "children": [],
+            "icon": "",
+            "color": "",
+            "date": "20240506104700",
+            "bk_id": "6638845b68a7fb976b07de16",
+            "sub": []
+          }
+        ],
+        "products": [
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "title": "\u0647\u0646\u0631 \u0627\u0635\u06cc\u0644 \u0628\u0648\u062f\u0646",
+            "file": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+            "description": "<p style=\"text-align: left;\">The Art of Being Authentic<\/p>\r\n\r\n<p>\u0639\u0632\u062a \u0646\u0641\u0633 \u062e\u0648\u062f \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u06cc\u062f\u060c\u0634\u0627\u062f\u062a\u0631 \u0628\u0627\u0634\u06cc\u062f \u0648 \u0627\u0647\u062f\u0627\u0641 \u062e\u0648\u062f \u0631\u0627 \u0628\u0634\u0646\u0627\u0633\u06cc\u062f<\/p>\r\n\r\n<p>\u062f\u0631&nbsp;\u06a9\u062a\u0627\u0628&nbsp;&laquo;<b>\u0647\u0646\u0631 \u0627\u0635\u06cc\u0644 \u0628\u0648\u062f\u0646<\/b>&raquo;\u060c \u0631\u0648\u0627\u0646&zwnj;\u062f\u0631\u0645\u0627\u0646\u06af\u0631 \u0645\u0627\u0631\u06a9 \u0645\u0627\u06cc\u0631\u060c \u0628\u06cc\u0646\u0634 \u06a9\u0644\u06cc\u062f\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0627\u06cc\u062c\u0627\u062f \u062f\u0631\u06a9 \u0639\u0645\u06cc\u0642&zwnj;\u062a\u0631 \u0627\u0632 \u062e\u0648\u062f \u0648 \u06cc\u0627\u0641\u062a\u0646 \u0645\u0631\u06a9\u0632 \u0648\u0627\u0642\u0639\u06cc \u0627\u062d\u0633\u0627\u0633 \u062e\u0648\u062f \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc&zwnj;\u06a9\u0646\u062f. \u0627\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u06a9\u0647 \u0686\u06af\u0648\u0646\u0647 \u0628\u0631 \u0627\u062d\u0633\u0627\u0633 \u0628\u06cc&zwnj;\u06a9\u0641\u0627\u06cc\u062a\u06cc \u063a\u0644\u0628\u0647 \u06a9\u0646\u06cc\u062f\u060c \u0647\u062f\u0641 \u062e\u0648\u062f \u0631\u0627 \u06a9\u0634\u0641 \u06a9\u0646\u06cc\u062f \u0648 \u0628\u0627 \u0648\u062c\u0648\u062f \u0622\u0633\u06cc\u0628&zwnj;\u0647\u0627\u06cc \u06af\u0630\u0634\u062a\u0647 \u06cc\u0627 \u062d\u0627\u0644\u060c \u0639\u0632\u062a \u0646\u0641\u0633 \u062e\u0648\u062f \u0631\u0627 \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0634\u0647 \u0628\u0647\u0628\u0648\u062f \u0628\u062e\u0634\u06cc\u062f.<\/p>\r\n",
+            "real_price": 140000,
+            "discount_price": 0,
+            "sku": "",
+            "not_show_in_app": 0,
+            "special": 0,
+            "timer": "20240506",
+            "number_buy": 0,
+            "images": [
+              "\/uploads\/stocks\/images\/test-maker\/image58.png"
+            ],
+            "cover": "\/uploads\/stocks\/images\/test-maker\/image58.png",
+            "categories": [
+              "66388204ba4e0eb4d304e402",
+              "66388384ba4e0eb4d304e404",
+              "663883daefc9d7753300a073",
+              "6638845b68a7fb976b07de16"
+            ],
+            "number_of_votes": 0,
+            "vote_points": 0,
+            "date": "20240506113700",
+            "bk_id": "6638907514e303e1cd07eb92"
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "title": "\u062c\u0632 \u0627\u0632 \u06a9\u0644",
+            "file": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+            "description": "<p>\u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0631\u0645\u0627\u0646 \u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627\u060c \u0646\u0627\u0645\u0632\u062f \u062c\u0627\u06cc\u0632\u0647 \u0628\u0648\u06a9\u0631\u060c \u067e\u0631\u0641\u0631\u0648\u0634&zwnj; \u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9 \u062a\u0627\u06cc\u0645\u0632 \u0648 \u0622\u0645\u0627\u0632\u0648\u0646 \u0648 \u0645\u062d\u0628\u0648\u0628&zwnj;\u062a\u0631\u06cc\u0646 \u0631\u0645\u0627\u0646 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0641\u06cc\u062f\u06cc\u0628\u0648! \u0627\u06cc\u0646\u0647\u0627 \u0648 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0632 \u0627\u06cc\u0646\u0647\u0627 \u062a\u0648\u0635\u06cc\u0641\u0627\u062a\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646 \u062f\u0631\u0628\u0627\u0631\u0647 \u062c\u0632 \u0627\u0632 \u06a9\u0644 \u0646\u0648\u0634\u062a. \u062c\u0632 \u0627\u0632 \u06a9\u0644 \u06cc\u06a9\u06cc \u0627\u0632 \u06a9\u062a\u0627\u0628&zwnj;\u0647\u0627\u06cc\u06cc \u0627\u0633\u062a \u0628\u0627\u0631\u0647\u0627 \u0648 \u0628\u0627\u0631\u0647\u0627 \u0646\u0627\u0645\u0634 \u0631\u0627 \u0634\u0646\u06cc\u062f\u0647&zwnj;\u0627\u06cc\u062f \u0648 \u0627\u06af\u0631 \u062e\u0648\u0627\u0646\u062f\u0647 \u0628\u0627\u0634\u06cc\u062f\u0634 \u0645\u06cc&zwnj;\u062f\u0627\u0646\u06cc\u062f \u0647\u0631\u06af\u0632 \u06cc\u06a9\u0628\u0627\u0631 \u062e\u0648\u0627\u0646\u062f\u0646\u0634 \u06a9\u0627\u0641\u06cc \u0646\u06cc\u0633\u062a!<\/p>\r\n\r\n<p>\u062c\u0632 \u0627\u0632 \u06a9\u0644 \u0627\u0648\u0644\u06cc\u0646 \u0631\u0645\u0627\u0646 \u0627\u0633\u062a\u06cc\u0648 \u062a\u0648\u0644\u062a\u0632\u060c \u0646\u0648\u06cc\u0633\u0646\u062f\u0647 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0633\u0627\u0644 2008 \u0628\u0647 \u0627\u0646\u062a\u0634\u0627\u0631 \u0631\u0633\u06cc\u062f \u0648 \u0647\u0645\u0627\u0646 \u0633\u0627\u0644 \u0646\u0627\u0645\u0632\u062f \u062f\u0631\u06cc\u0627\u0641\u062a \u062c\u0627\u06cc\u0632\u0647 \u0628\u0648\u06a9\u0631 \u0634\u062f. \u0628\u0627 \u0648\u062c\u0648\u062f \u0645\u062f\u062a \u0632\u0645\u0627\u0646 \u06a9\u0648\u062a\u0627\u0647\u06cc \u06a9\u0647 \u0627\u0632 \u0686\u0627\u067e\u0634 \u06af\u0630\u0634\u062a\u0647\u060c \u0627\u06a9\u0646\u0648\u0646 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0631\u0645\u0627\u0646 \u0647\u0627\u06cc \u062a\u0627\u0631\u06cc\u062e \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u0645\u0637\u0631\u062d \u0627\u0633\u062a.<\/p>\r\n\r\n<p>\u062a\u0648\u0644\u062a\u0632 \u062f\u0631 \u0627\u06cc\u0646 \u0631\u0645\u0627\u0646 \u0628\u0644\u0646\u062f \u0628\u0627 \u0642\u0644\u0645\u06cc \u062c\u0627\u062f\u0648\u06cc\u06cc \u0648 \u0631\u0648\u0627\u06cc\u062a\u06cc \u062c\u0627\u0646\u062f\u0627\u0631 \u0634\u062e\u0635\u06cc\u062a&zwnj;\u0647\u0627\u06cc\u06cc \u0631\u0627 \u067e\u06cc\u0634 \u0686\u0634\u0645 \u0645\u062e\u0627\u0637\u0628\u0627\u0646 \u0645\u06cc&zwnj;\u06af\u0630\u0627\u0631\u062f \u06a9\u0647 \u062a\u0627 \u0645\u062f\u062a\u0647\u0627 \u0641\u0631\u0627\u0645\u0648\u0634 \u0646\u0645\u06cc&zwnj;\u0634\u0648\u0646\u062f.<\/p>\r\n\r\n<p>\u067e\u06cc\u0645\u0627\u0646 \u062e\u0627\u06a9\u0633\u0627\u0631 \u0645\u062a\u0631\u062c\u0645 \u062a\u0648\u0627\u0646\u0645\u0646\u062f \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u062f\u0631 \u062a\u0648\u0636\u06cc\u062d \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0646\u0648\u0634\u062a\u0647 \u0627\u0633\u062a: &laquo;\u062e\u0648\u0627\u0646\u062f\u0646 \u062c\u0632\u0621 \u0627\u0632 \u06a9\u0644 \u062a\u062c\u0631\u0628\u0647&zwnj;\u0627\u06cc \u063a\u0631\u06cc\u0628 \u0648 \u0645\u0646\u062d\u0635\u0631 \u0628\u0647 \u0641\u0631\u062f \u0627\u0633\u062a. \u062f\u0631 \u0647\u0631 \u0635\u0641\u062d\u0647&zwnj;\u0627\u0634 \u062c\u0645\u0644\u0647&zwnj;\u0627\u06cc \u0648\u062c\u0648\u062f \u062f\u0627\u0631\u062f \u06a9\u0647 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u0646 \u0631\u0627 \u0646\u0642\u0644 \u0642\u0648\u0644 \u06a9\u0646\u06cc\u062f. \u06a9\u0627\u0648\u0634\u06cc \u0627\u0633\u062a \u0698\u0631\u0641 \u062f\u0631 \u0627\u0639\u0645\u0627\u0642 \u0631\u0648\u062d \u0627\u0646\u0633\u0627\u0646 \u0648 \u0645\u0627\u0647\u06cc\u062a \u062a\u0645\u062f\u0646. \u0633\u0641\u0631 \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0646\u0645\u0648\u0646\u0647&zwnj;\u0627\u0634 \u0631\u0627 \u06a9\u0645\u062a\u0631 \u062f\u06cc\u062f\u0647&zwnj;\u0627\u06cc\u062f. \u0631\u0645\u0627\u0646\u06cc \u0639\u0645\u06cc\u0642 \u0648 \u067e\u0631\u0645\u0627\u062c\u0631\u0627 \u0648 \u0641\u0644\u0633\u0641\u06cc \u06a9\u0647 \u0645\u0627\u0647&zwnj;\u0647\u0627 \u0627\u0633\u06cc\u0631\u062a\u0627\u0646 \u0645\u06cc&zwnj;\u06a9\u0646\u062f. \u0628\u0647 \u0646\u0638\u0631\u0645 \u062a\u0645\u0627\u0645 \u062a\u0639\u0627\u0631\u06cc\u0641\u06cc \u06a9\u0647 \u0627\u0632 \u06a9\u062a\u0627\u0628 \u0634\u062f\u0647 \u0646\u0627\u0628\u0633\u0646\u062f\u0647&zwnj;\u0627\u0646\u062f.&raquo; \u0627\u06cc\u0646 \u0631\u0645\u0627\u0646 \u06cc\u06af\u0627\u0646\u0647 \u0628\u0627 \u0627\u06cc\u0646 \u062c\u0645\u0644\u0627\u062a \u0622\u063a\u0627\u0632 \u0645\u06cc&zwnj;\u0634\u0648\u062f:<\/p>\r\n\r\n<p>\u0647\u06cc\u0686 \u0648\u0642\u062a \u0646\u0645\u06cc&zwnj;\u0634\u0646\u0648\u06cc\u062f \u0648\u0631\u0632\u0634\u06a9\u0627\u0631\u06cc \u062f\u0631 \u062d\u0627\u062f\u062b\u0647&zwnj;\u0627\u06cc \u0641\u062c\u06cc\u0639 \u062d\u0633 \u0628\u0648\u06cc\u0627\u06cc\u06cc&zwnj;\u0627\u0634 \u0631\u0627 \u0627\u0632 \u062f\u0633\u062a \u0628\u062f\u0647\u062f.\u0627\u06af\u0631 \u06a9\u0627\u0626\u0646\u0627\u062a \u062a\u0635\u0645\u06cc\u0645 \u0628\u06af\u06cc\u0631\u062f \u062f\u0631\u0633\u06cc \u062f\u0631\u062f\u0646\u0627\u06a9 \u0628\u0647 \u0645\u0627 \u0627\u0646\u0633\u0627\u0646 \u0647\u0627 \u0628\u062f\u0647\u062f\u060c\u0645\u0647 \u0627\u0644\u0628\u062a\u0647 \u0627\u06cc\u0646 \u062f\u0631\u0633 \u0647\u0645 \u0628\u0647 \u0647\u06cc\u0686 \u062f\u0631\u062f \u0632\u0646\u062f\u06af\u06cc \u0622\u06cc\u0646\u062f\u0647&zwnj;\u0645\u0627\u0646 \u0646\u062e\u0648\u0631\u062f \u060c\u0645\u062b\u0644 \u0631\u0648\u0632 \u0631\u0648\u0634\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0648\u0631\u0632\u0634\u06a9\u0627\u0631 \u0628\u0627\u06cc\u062f \u067e\u0627\u06cc\u0634 \u0631\u0627 \u0627\u0632 \u062f\u0633\u062a \u0628\u062f\u0647\u062f\u060c\u0641\u06cc\u0644\u0633\u0648\u0641 \u0639\u0642\u0644\u0634\u060c \u0646\u0642\u0627\u0634 \u0686\u0634\u0645\u0634\u060c \u0622\u0647\u0646\u06af\u0633\u0627\u0632 \u06af\u0648\u0634\u0634 \u0648 \u0622\u0634\u067e\u0632 \u0632\u0628\u0627\u0646\u0634. \u062f\u0631\u0633 \u0645\u0646\u061f \u0645\u0646 \u0622\u0632\u0627\u062f\u06cc \u0627\u0645 \u0631\u0627 \u0627\u0632 \u062f\u0633\u062a \u062f\u0627\u062f\u0645...&raquo;<\/p>\r\n",
+            "real_price": 147000,
+            "discount_price": 0,
+            "sku": "",
+            "not_show_in_app": 0,
+            "special": 0,
+            "timer": "20240506",
+            "number_buy": 0,
+            "images": [
+              "\/uploads\/stocks\/images\/about-us\/image129.png"
+            ],
+            "cover": "\/uploads\/stocks\/images\/about-us\/image129.png",
+            "categories": [
+              "66388204ba4e0eb4d304e402",
+              "66388384ba4e0eb4d304e404",
+              "663883daefc9d7753300a073",
+              "6638845b68a7fb976b07de16"
+            ],
+            "number_of_votes": 0,
+            "vote_points": 0,
+            "date": "20240506120800",
+            "bk_id": "66389793958e37296b028b62"
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "title": "\u0632\u0646 \u0632\u06cc\u0627\u062f\u06cc",
+            "file": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+            "description": "<p>\u06a9\u062a\u0627\u0628<strong>&nbsp;\u0632\u0646 \u0632\u06cc\u0627\u062f\u06cc<\/strong>&nbsp;\u0646\u0648\u0634\u062a\u0647\u0654&nbsp;\u062c\u0644\u0627\u0644 \u0622\u0644 \u0627\u062d\u0645\u062f&nbsp;\u0627\u0633\u062a.&nbsp;\u0645\u0648\u0633\u0633\u0647 \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u062a \u0646\u06af\u0627\u0647&nbsp;\u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0631\u0627 \u0631\u0648\u0627\u0646\u0647\u0654 \u0628\u0627\u0632\u0627\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u062b\u0631\u060c \u0645\u062c\u0645\u0648\u0639\u0647&zwnj;\u0627\u06cc \u0627\u0632 \u062f\u0627\u0633\u062a\u0627\u0646&zwnj;\u0647\u0627\u06cc \u06a9\u0648\u062a\u0627\u0647 \u0627\u06cc\u0646 \u0646\u0648\u06cc\u0633\u0646\u062f\u0647\u060c \u0628\u0627 \u0645\u0648\u0636\u0648\u0639 &laquo;\u0632\u0646\u0627\u0646&raquo; \u0627\u0633\u062a.<strong>&nbsp;<\/strong>\u0622\u0644&zwnj;\u0627\u062d\u0645\u062f\u060c \u062f\u0631 \u0627\u06cc\u0646 \u06f9 \u062f\u0627\u0633\u062a\u0627\u0646\u060c \u0628\u0647 \u0646\u0642\u0634 \u06a9\u0645&zwnj;\u0627\u0631\u0632\u0634 \u0632\u0646 \u062f\u0631 \u0633\u0627\u0644&zwnj;\u0647\u0627\u06cc \u0627\u0628\u062a\u062f\u0627\u06cc\u06cc \u0642\u0631\u0646 \u06f1\u06f3 \u0645\u06cc&zwnj;\u067e\u0631\u062f\u0627\u0632\u062f.&nbsp;\u0628\u0647&zwnj;\u0637\u0648\u0631 \u06a9\u0644\u06cc \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646 \u06af\u0641\u062a \u06a9\u0647 \u062a\u0635\u0648\u06cc\u0631 \u0632\u0646 \u062f\u0631 \u0628\u0631\u062e\u06cc \u0622\u062b\u0627\u0631 \u0627\u06cc\u0646 \u0646\u0648\u06cc\u0633\u0646\u062f\u0647\u060c \u062a\u0635\u0648\u06cc\u0631\u06cc \u0627\u0632 \u062d\u0642\u0627\u0631\u062a \u0632\u0646\u0627\u0646 \u062f\u0631 \u062c\u0627\u0645\u0639\u0647&zwnj;\u0627\u06cc \u0645\u0631\u062f\u0633\u0627\u0644\u0627\u0631 \u0627\u0633\u062a\u061b \u0632\u0646\u0627\u0646\u06cc \u06a9\u0647 \u0627\u0632 \u062e\u0648\u062f \u0647\u06cc\u0686 \u0627\u062e\u062a\u06cc\u0627\u0631\u06cc \u0646\u062f\u0627\u0631\u0646\u062f \u0648 \u0627\u0632 \u0633\u0648\u06cc \u0645\u0631\u062f\u0627\u0646 \u0622\u0632\u0627\u0631 \u0648 \u0627\u0630\u06cc\u062a \u0645\u06cc&zwnj;\u0634\u0648\u0646\u062f. \u0627\u06cc\u0646 \u0646\u0648\u06cc\u0633\u0646\u062f\u0647\u060c \u0646\u0634\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u06a9\u0647 \u0632\u0646\u0627\u0646 \u0627\u0628\u062a\u062f\u0627 \u062f\u0631 \u062e\u0627\u0646\u0647\u0654 \u067e\u062f\u0631\u06cc \u0648 \u0633\u067e\u0633 \u062f\u0631 \u0627\u0633\u0627\u0631\u062a \u062e\u0627\u0646\u0647\u0654 \u0634\u0648\u0647\u0631\u060c \u0646\u0627\u062f\u06cc\u062f\u0647 \u0627\u0646\u06af\u0627\u0634\u062a\u0647 \u0645\u06cc&zwnj;\u0634\u0648\u0646\u062f\u061b \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0648\u060c \u0632\u0646 \u062f\u0631 \u0686\u0646\u06cc\u0646 \u062c\u0627\u0645\u0639\u0647&zwnj;\u0627\u06cc \u0634\u062e\u0635\u06cc\u062a\u06cc \u0627\u0633\u062a \u0645\u0646\u0641\u0639\u0644 \u06a9\u0647 \u062a\u062d\u0642\u06cc\u0631 \u0645\u06cc&zwnj;\u0634\u0648\u062f\u060c \u06a9\u062a\u06a9 \u0645\u06cc&zwnj;\u062e\u0648\u0631\u062f \u0648 \u062d\u0642\u06cc \u0628\u06cc\u0634 \u0627\u0632 \u0627\u06cc\u0646 \u0628\u0631\u0627\u06cc \u062e\u0648\u062f\u0634 \u0642\u0627\u0626\u0644 \u0646\u06cc\u0633\u062a.<\/p>\r\n",
+            "real_price": 90000,
+            "discount_price": 0,
+            "sku": "",
+            "not_show_in_app": 0,
+            "special": 0,
+            "timer": "20240506",
+            "number_buy": 0,
+            "images": [
+              "\/uploads\/stocks\/images\/asdf-1.png"
+            ],
+            "cover": "\/uploads\/stocks\/images\/asdf-1.png",
+            "categories": [
+              "66388204ba4e0eb4d304e402",
+              "66388384ba4e0eb4d304e404",
+              "663883daefc9d7753300a073",
+              "6638845b68a7fb976b07de16"
+            ],
+            "number_of_votes": 0,
+            "vote_points": 0,
+            "date": "20240506123700",
+            "bk_id": "66389eaf40b3391bae0fe4b2"
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "title": "\u0647\u0646\u0631 \u0638\u0631\u06cc\u0641 \u0631\u0647\u0627\u06cc\u06cc \u0627\u0632 \u062f\u063a\u062f\u063a\u0647 \u0647\u0627",
+            "file": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+            "description": "<p>\u0627\u0634\u062a\u0646 \u0630\u0647\u0646\u06cc \u0647\u0645\u06cc\u0634\u0647 \u0645\u0634\u063a\u0648\u0644\u060c \u0628\u0647 \u0627\u0646\u0633\u0627\u0646 \u0622\u0633\u06cc\u0628 \u0645\u06cc&zwnj;\u0632\u0646\u062f. \u062e\u0633\u062a\u06af\u06cc \u062c\u0633\u0645\u06cc \u0647\u0645\u06cc\u0634\u06af\u06cc \u06a9\u0648\u0686\u06a9&zwnj;\u062a\u0631\u06cc\u0646 \u0622\u0633\u06cc\u0628 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0627\u0633\u062a. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u062f\u0627\u0634\u062a\u0646 \u0647\u0646\u0631 \u0631\u0647\u0627\u06cc\u06cc \u0627\u0632&nbsp;\u062f\u063a\u062f\u063a\u0647&zwnj;\u0647\u0627\u06cc \u0632\u06cc\u0627\u062f \u0628\u0627\u0639\u062b \u0645\u06cc&zwnj;\u0634\u0648\u062f \u06a9\u0645&zwnj;\u06a9\u0645 \u0628\u0647 \u0627\u0636\u0637\u0631\u0627\u0628 \u0645\u0628\u062a\u0644\u0627 \u0634\u0648\u06cc\u062f \u0648 \u0627\u062a\u0641\u0627\u0642\u0627\u062a \u0646\u0627\u062e\u0648\u0634\u0627\u06cc\u0646\u062f \u0628\u06cc\u0634\u062a\u0631\u06cc \u0628\u06cc\u0641\u062a\u062f. \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0647\u0631\u06a9\u0633\u06cc \u0628\u0627\u06cc\u062f \u06cc\u0627\u062f \u0628\u06af\u06cc\u0631\u062f \u0628\u0627 \u062f\u063a\u062f\u063a\u0647&zwnj;\u0647\u0627\u06cc\u0634 \u0628\u0647 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0634\u06a9\u0644 \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u062f \u0648 \u0622\u0646&zwnj;\u0647\u0627 \u0631\u0627 \u0645\u062f\u06cc\u0631\u06cc\u062a \u06a9\u0646\u062f. \u0633\u0627\u0644 \u06f2\u06f0\u06f1\u06f6 \u0628\u0648\u062f \u06a9\u0647 \u06a9\u062a\u0627\u0628 &laquo;the subtle Art of Not Giving Fuck: A&nbsp;Contraintutive approach to living a good life&raquo; \u0645\u0646\u062a\u0634\u0631 \u0634\u062f \u0648 \u0628\u0647 \u0632\u0628\u0627\u0646\u06cc \u0645\u062a\u0641\u0627\u0648\u062a \u062f\u0631\u0628\u0627\u0631\u0647&zwnj;\u06cc \u0639\u0628\u0648\u0631 \u0627\u0632 \u062f\u063a\u062f\u063a\u0647 \u062d\u0631\u0641 \u0632\u062f. \u0622\u0646\u0686\u0647 \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0645\u06cc&zwnj;\u06af\u0648\u06cc\u062f \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0632\u0646\u062f\u06af\u06cc \u06a9\u0648\u062a\u0627\u0647&zwnj;\u062a\u0631 \u0627\u0632 \u0622\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0622\u0646 \u0631\u0627 \u062f\u0631 \u0645\u0633\u06cc\u0631 \u062f\u063a\u062f\u063a\u0647&zwnj;\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0647 \u0631\u0634\u062f\u062a\u0627\u0646 \u06a9\u0645\u06a9\u06cc \u0646\u0645\u06cc&zwnj;\u06a9\u0646\u062f \u0647\u062f\u0631 \u0628\u062f\u0647\u06cc\u062f \u0648 \u0627\u0646\u0631\u0698\u06cc&nbsp;\u0631\u0648\u0627\u0646\u06cc \u0648 \u062c\u0633\u0645\u06cc&zwnj;\u062a\u0627\u0646 \u0631\u0627 \u0627\u0632 \u0628\u06cc\u0646 \u0628\u0628\u0631\u06cc\u062f. \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u062e\u0648\u0627\u0646\u062f\u0646\u06cc \u0648 \u062c\u0630\u0627\u0628 \u062f\u0631 \u0645\u062f\u062a&zwnj;\u0632\u0645\u0627\u0646 \u06a9\u0648\u062a\u0627\u0647\u06cc \u0628\u0647 \u06cc\u06a9\u06cc \u0627\u0632 \u067e\u0631\u0641\u0631\u0648\u0634&zwnj;\u062a\u0631\u06cc\u0646&zwnj;\u0647\u0627\u06cc \u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9&zwnj;\u062a\u0627\u06cc\u0645\u0632 \u0648 \u0622\u0645\u0627\u0632\u0648\u0646 \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f. \u062a\u0627 \u0633\u0627\u0644 \u06f2\u06f0\u06f1\u06f9 \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f2\u06f5 \u0632\u0628\u0627\u0646 \u0645\u062e\u062a\u0644\u0641 \u0628\u0631\u06af\u0631\u062f\u0627\u0646\u062f\u0647 \u0634\u062f \u0648 \u0628\u06cc\u0634 \u0627\u0632 \u0633\u0647 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u0646\u0633\u062e\u0647 \u0627\u0632 \u0622\u0646 \u062f\u0631 \u0646\u0642\u0627\u0637 \u0645\u062e\u062a\u0644\u0641 \u062f\u0646\u06cc\u0627 \u0641\u0631\u0648\u0634 \u0631\u0641\u062a.<\/p>\r\n\r\n<p>\u06a9\u062a\u0627\u0628 \u0645\u0627\u0631\u06a9 \u0645\u0646\u0633\u0648\u0646 \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0647\u0645 \u0645\u0627\u0646\u0646\u062f \u0633\u0627\u06cc\u0631 \u0646\u0642\u0627\u0637 \u062f\u0646\u06cc\u0627 \u0628\u0627 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0632\u06cc\u0627\u062f\u06cc \u0645\u0648\u0627\u062c\u0647 \u0634\u062f\u0647 \u0648 \u0686\u0646\u062f\u06cc\u0646 \u062a\u0631\u062c\u0645\u0647 \u0627\u0632 \u0622\u0646 \u062f\u0631 \u0628\u0627\u0632\u0627\u0631 \u06a9\u062a\u0627\u0628 \u0627\u06cc\u0631\u0627\u0646 \u0645\u0648\u062c\u0648\u062f \u0627\u0633\u062a. \u06cc\u06a9\u06cc \u0627\u0632 \u062a\u0631\u062c\u0645\u0647&zwnj;\u0647\u0627\u06cc \u062e\u0648\u0628 \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0646\u0633\u062e\u0647&zwnj;\u06cc \u0645\u0646\u062a\u0638\u0631 \u0634\u062f\u0647 \u0627\u0632 \u0633\u0648\u06cc \u0646\u0634\u0631 \u0645\u06cc\u0644\u06a9\u0627\u0646 \u0628\u0627 \u0639\u0646\u0648\u0627\u0646 &laquo;\u0647\u0646\u0631 \u0638\u0631\u06cc\u0641 \u0631\u0647\u0627\u06cc\u06cc \u0627\u0632 \u062f\u063a\u062f\u063a\u0647&zwnj;\u0647\u0627\u060c \u0631\u0648\u0634\u06cc \u0646\u0648 \u0628\u0631\u0627\u06cc \u062e\u0648\u0628 \u0632\u0646\u062f\u06af\u06cc&zwnj;\u06a9\u0631\u062f\u0646&raquo; \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u0644\u0627\u062f \u0628\u0634\u06cc\u0631\u06cc \u06a9\u0627\u0631 \u0628\u0631\u06af\u0631\u062f\u0627\u0646\u062f\u0646 \u0622\u0646 \u0628\u0647 \u0641\u0627\u0631\u0633\u06cc \u0631\u0627 \u0627\u0646\u062c\u0627\u0645 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a.<\/p>\r\n",
+            "real_price": 0,
+            "discount_price": 0,
+            "sku": "",
+            "not_show_in_app": 0,
+            "special": 0,
+            "timer": "20240506",
+            "number_buy": 0,
+            "images": [
+              "\/uploads\/stocks\/images\/fun4.jpg"
+            ],
+            "cover": "\/uploads\/stocks\/images\/fun4.jpg",
+            "categories": [
+              "66388204ba4e0eb4d304e402",
+              "66388384ba4e0eb4d304e404",
+              "663883daefc9d7753300a073",
+              "6638845b68a7fb976b07de16"
+            ],
+            "number_of_votes": 0,
+            "vote_points": 0,
+            "date": "20240506125000",
+            "bk_id": "6638a248f71fe4e19c061873"
+          },
+          {
+            "user_id": "{{USER_ID}}",
+            "app_id": "{{APP_ID}}",
+            "page_id": "6637463ccc7464de9b01e872",
+            "title": "\u0645\u0648\u0633\u06cc\u0642\u06cc \u062f\u0631\u0645\u0627\u0646\u06cc",
+            "file": "\/uploads\/user\/orqsaiphdl\/sound\/ChopinNocturneNo2.mp3",
+            "description": "<p>\u067e\u0627\u062f\u06a9\u0633\u062a \u0645\u0648\u0633\u0642\u06cc\u06cc \u06a9\u0644\u0627\u0633\u06cc\u06a9<\/p>\r\n",
+            "real_price": 0,
+            "discount_price": 0,
+            "sku": "",
+            "not_show_in_app": 0,
+            "special": 0,
+            "timer": "20240506",
+            "number_buy": 0,
+            "images": [
+              "\/uploads\/stocks\/images\/music\/image61.png"
+            ],
+            "cover": "\/uploads\/stocks\/images\/music\/image61.png",
+            "categories": [
+              "66388204ba4e0eb4d304e402",
+              "66388384ba4e0eb4d304e404",
+              "663883daefc9d7753300a073",
+              "6638845b68a7fb976b07de16"
+            ],
+            "number_of_votes": 0,
+            "vote_points": 0,
+            "date": "20240506142400",
+            "bk_id": "6638b7eb9692a14e66004d42"
+          }
+        ],
+        "discounts": [],
+        "factors": [],
+        "comments": []
+      }
+    },
+    "6638a39b2be0f686f909d465": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "Content",
+      "sort": 7250,
+      "slug": "xn-mgbfi9gra",
+      "name": "\u0631\u0627\u0647\u0646\u0645\u0627",
+      "icon": "fa-question-circle",
+      "icon_type": "font",
+      "hidden": 0,
+      "theme_id": "default",
+      "structure": "structure3",
+      "sub_pages": [],
+      "sub_pages_router": [],
+      "date_added": "20240506130211",
+      "bk_id": "6638a39b2be0f686f909d465",
+      "PAGE_DATA": {
+        "user_id": "{{USER_ID}}",
+        "app_id": "{{APP_ID}}",
+        "page_id": "6638a39b2be0f686f909d465",
+        "_translate": {
+          "_app_share": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc",
+          "_app_bookmark": "\u0646\u0634\u0627\u0646 \u06a9\u0631\u062f\u0646",
+          "_app_bookmarked": "\u0646\u0634\u0627\u0646 \u0634\u062f\u0647",
+          "_app_global_error": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+          "_app_success_msg": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+          "_app_refresh_text": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+          "_app_checkbox_confirm": "\u062a\u0627\u06cc\u06cc\u062f",
+          "_app_checkbox_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_calender_close_button": "\u0628\u0633\u062a\u0646",
+          "_app_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_loading": "\u0644\u0637\u0641\u0627 \u0645\u0646\u062a\u0638\u0631 \u0628\u0645\u0627\u0646\u06cc\u062f...",
+          "_app_file_downloading_progress": "\u062f\u0631 \u062d\u0627\u0644 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644",
+          "_app_file_downloading_success": "\u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f. \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0631 \u067e\u0648\u0634\u0647 Downloads \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u0634\u0645\u0627 \u0642\u0627\u0628\u0644 \u0645\u0634\u0627\u0647\u062f\u0647 \u0627\u0633\u062a.",
+          "_app_file_downloading_failed": "\u062e\u0637\u0627 \u062f\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f."
+        },
+        "_designs": {
+          "structure": "structure3"
+        },
+        "slider_setting": {
+          "type": "offline",
+          "move": "automatic",
+          "intervalTime": "4",
+          "indicator": "1",
+          "height": "260"
+        },
+        "title": "\u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0633\u0627\u0632 \u0627\u067e\u062a\u0648",
+        "sub_title": "",
+        "content": "<ul>\r\n\t<li><strong>\u0645\u0627\u0698\u0648\u0644&zwnj; \u0647\u0627 :<\/strong>&nbsp;\u062f\u0631 \u0628\u062e\u0634 &quot;\u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627&quot;\u060c \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u062a\u0645\u0627\u0645\u06cc \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627\u06cc\u06cc \u0631\u0627 \u06a9\u0647 \u0642\u0628\u0644\u0627\u064b \u0628\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f\u0647&zwnj;\u0627\u06cc\u062f\u060c \u0645\u0634\u0627\u0647\u062f\u0647 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u06a9\u0646\u062a\u0631\u0644 \u06a9\u0627\u0645\u0644\u06cc \u0628\u0631 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f \u0648 \u062f\u0631 \u0635\u0648\u0631\u062a \u0646\u06cc\u0627\u0632\u060c \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0644\u0627\u0632\u0645 \u0631\u0627 \u0627\u0639\u0645\u0627\u0644 \u06a9\u0646\u06cc\u062f.\u062f\u0631 \u0627\u06cc\u0646\u062c\u0627\u060c \u0634\u0645\u0627 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0627 \u06a9\u0644\u06cc\u06a9 \u0628\u0631 \u0631\u0648\u06cc \u0647\u0631 \u0645\u0627\u0698\u0648\u0644 \u0628\u0647 \u0635\u0641\u062d\u0647 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0622\u0646 \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0635\u0641\u062d\u0647 \u0628\u0647 \u0634\u0645\u0627 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u062e\u0627\u0635 \u0645\u0627\u0698\u0648\u0644 \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u06cc\u062f\u060c \u0648\u06cc\u0698\u06af\u06cc&zwnj;\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u06cc\u062f\u060c \u06cc\u0627 \u062d\u062a\u06cc \u0622\u0646 \u0631\u0627 \u062d\u0630\u0641 \u06a9\u0646\u06cc\u062f \u0627\u06af\u0631 \u062f\u06cc\u06af\u0631 \u0628\u0647 \u0622\u0646 \u0646\u06cc\u0627\u0632 \u0646\u062f\u0627\u0631\u06cc\u062f.<\/li>\r\n\t<li><strong>\u0637\u0631\u0627\u062d\u06cc \u0647\u0627 :<\/strong>&nbsp;\u0628\u062e\u0634 &quot;\u0637\u0631\u0627\u062d\u06cc&zwnj;\u0647\u0627&quot; \u0628\u0647 \u0634\u0645\u0627 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u0628\u0631\u0627\u06cc \u0647\u0631 \u0645\u0627\u0698\u0648\u0644 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u06cc\u06a9 \u0637\u0631\u0627\u062d\u06cc \u0645\u062c\u0632\u0627 \u062a\u0639\u0631\u06cc\u0641 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u0633\u0641\u0627\u0631\u0634\u06cc&zwnj;\u0633\u0627\u0632\u06cc \u06a9\u0646\u06cc\u062f \u0648 \u0638\u0627\u0647\u0631\u06cc \u0645\u0646\u062d\u0635\u0631 \u0628\u0647 \u0641\u0631\u062f \u0628\u0631\u0627\u06cc \u0647\u0631 \u0628\u062e\u0634 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u06cc\u062f. \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u06cc\u0646 \u0628\u062e\u0634\u060c \u0634\u0645\u0627 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0647 \u0637\u0648\u0631 \u062f\u0642\u06cc\u0642 \u062a\u0639\u06cc\u06cc\u0646 \u06a9\u0646\u06cc\u062f \u06a9\u0647 \u0647\u0631 \u0645\u0627\u0698\u0648\u0644 \u0686\u06af\u0648\u0646\u0647 \u0628\u0647 \u0646\u0638\u0631 \u0628\u0631\u0633\u062f \u0648 \u0628\u0627 \u0686\u0647 \u0633\u0628\u06a9\u06cc&nbsp;\u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0634\u0648\u062f.<\/li>\r\n\t<li><strong>\u0627\u0641\u0632\u0648\u062f\u0646 \u0645\u0627\u0698\u0648\u0644 \u062c\u062f\u06cc\u062f :<\/strong>&nbsp;\u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u062e\u0634 &quot;\u0627\u0641\u0632\u0648\u062f\u0646 \u0645\u0627\u0698\u0648\u0644 \u062c\u062f\u06cc\u062f&quot;\u060c \u0634\u0645\u0627 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0647&zwnj; \u0633\u0627\u062f\u06af\u06cc \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f\u06cc \u0631\u0627 \u0628\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0627\u0645\u06a9\u0627\u0646 \u0628\u0647 \u0634\u0645\u0627 \u06a9\u0645\u06a9 \u0645\u06cc&zwnj;\u06a9\u0646\u062f \u062a\u0627 \u0648\u06cc\u0698\u06af\u06cc&zwnj;\u0647\u0627 \u0648 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a \u062a\u0627\u0632\u0647&zwnj;\u0627\u06cc \u0628\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0628\u06cc\u0627\u0648\u0631\u06cc\u062f . \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u06a9\u0627\u0631\u060c \u062a\u0646\u0647\u0627 \u06a9\u0627\u0641\u06cc \u0627\u0633\u062a \u0628\u0647 \u0628\u062e\u0634 &quot;\u0627\u0641\u0632\u0648\u062f\u0646 \u0645\u0627\u0698\u0648\u0644 \u062c\u062f\u06cc\u062f&quot;&nbsp; \u0628\u0631\u0648\u06cc\u062f \u0648 \u0627\u0632 \u0644\u06cc\u0633\u062a \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627\u06cc \u0645\u0648\u062c\u0648\u062f\u060c \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627\u06cc \u0645\u0648\u0631\u062f\u0646\u0638\u0631 \u062e\u0648\u062f \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f. \u0647\u0631 \u0645\u0627\u0698\u0648\u0644 \u06cc\u06a9 \u0648\u06cc\u0698\u06af\u06cc \u062e\u0627\u0635 \u0631\u0627 \u0628\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0634\u0645\u0627 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc&zwnj;\u06a9\u0646\u062f\u060c \u0645\u0627\u0646\u0646\u062f \u0646\u0642\u0634\u0647\u060c \u0641\u0631\u0645\u060c \u0641\u0631\u0648\u0634\u06af\u0627\u0647\u060c \u06cc\u0627 \u0686\u062a \u0622\u0646\u0644\u0627\u06cc\u0646 \u0648..&nbsp;\u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0627\u0698\u0648\u0644&zwnj;\u0647\u0627\u06cc \u0645\u0646\u0627\u0633\u0628\u060c \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u062f\u0642\u06cc\u0642\u0627\u064b \u0645\u0637\u0627\u0628\u0642 \u0628\u0627 \u0646\u06cc\u0627\u0632\u0647\u0627 \u0648 \u0627\u0647\u062f\u0627\u0641 \u062e\u0648\u062f \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0646\u06cc\u062f.<\/li>\r\n\t<li><strong>\u0645\u0634\u0627\u0647\u062f\u0647 \u062f\u0645\u0648 \u0648\u0627\u0642\u0639\u06cc \u062f\u0631 \u0645\u0648\u0628\u0627\u06cc\u0644 :&nbsp;<\/strong>\u0628\u0631\u0627\u06cc \u0645\u0634\u0627\u0647\u062f\u0647 \u062f\u0645\u0648 \u0648\u0627\u0642\u0639\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u062f\u0631 \u0645\u0648\u0628\u0627\u06cc\u0644\u060c \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u0627\u0632 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0627\u067e\u062a\u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u067e\u06cc\u0634&zwnj;\u0646\u0645\u0627\u06cc\u0634\u06cc \u0627\u0632 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u06cc\u06a9 \u0645\u062d\u06cc\u0637 \u0648\u0627\u0642\u0639\u06cc \u0645\u0648\u0628\u0627\u06cc\u0644\u06cc \u0628\u0628\u06cc\u0646\u06cc\u062f \u0648 \u062a\u062c\u0631\u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0622\u0646 \u0631\u0627 \u0627\u0632 \u0646\u06af\u0627\u0647 \u06cc\u06a9 \u06a9\u0627\u0631\u0628\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634 \u06a9\u0646\u06cc\u062f.&nbsp;<\/li>\r\n\t<li><strong>\u062a\u0646\u0638\u06cc\u0645\u0627\u062a :&nbsp;<\/strong>\u062f\u0631 \u0628\u062e\u0634 &quot;\u062a\u0646\u0638\u06cc\u0645\u0627\u062a&quot;\u060c \u0634\u0645\u0627 \u0645\u06cc&zwnj;\u062a\u0648\u0627\u0646\u06cc\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u0633\u0641\u0627\u0631\u0634\u06cc&zwnj;\u0633\u0627\u0632\u06cc \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u062a\u0627 \u062c\u0646\u0628\u0647&zwnj;\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0646\u0627\u0645\u060c \u0644\u0648\u06af\u0648\u060c \u0641\u0648\u0646\u062a\u060c \u0648 \u0633\u0627\u06cc\u0631 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u0637\u0631\u0627\u062d\u06cc \u0648 \u0638\u0627\u0647\u0631 \u0631\u0627 \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0646\u06cc\u062f.<\/li>\r\n\t<li><strong>\u0627\u0646\u062a\u0634\u0627\u0631 :&nbsp;<\/strong>\u0628\u062e\u0634 &quot;\u0627\u0646\u062a\u0634\u0627\u0631&quot; \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u0628\u0647 \u0635\u0648\u0631\u062a \u0631\u0633\u0645\u06cc \u0648 \u062f\u0631 \u0642\u0627\u0644\u0628&zwnj;\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u0628\u0647 \u0634\u0645\u0627 \u0627\u06cc\u0646 \u0641\u0631\u0635\u062a \u0631\u0627 \u0645\u06cc&zwnj;\u062f\u0647\u062f \u06a9\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0646\u062f\u0631\u0648\u06cc\u062f\u060c iOS\u060c \u0648 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0647 \u0635\u0648\u0631\u062a \u0648\u0628&zwnj;\u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646&nbsp; (PWA) \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f.&nbsp;<\/li>\r\n<\/ul>\r\n",
+        "sound": {
+          "link": "",
+          "image": "\/uploads\/stocks\/images\/pro3.jpg"
+        },
+        "video": {
+          "link": "https:\/\/appeto.ir\/wp-content\/uploads\/2021\/09\/13.mp4",
+          "image": "\/uploads\/user\/orqsaiphdl\/image4.png"
+        },
+        "share_info": {
+          "share": "1",
+          "text": "",
+          "link": ""
+        },
+        "can_bookmark": "no",
+        "slider": [
+          {
+            "image": "\/uploads\/stocks\/images\/lab.jpg",
+            "type": "none",
+            "link": "",
+            "router": "",
+            "title": "",
+            "subtitle": "",
+            "button_text": ""
+          }
+        ]
+      }
+    },
+    "663368caef8a4bc7cb081dca": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "Menu",
+      "sort": 9000,
+      "slug": "xn-zmc3a5dqbhqc25cz1a",
+      "name": "\u0645\u0646\u0648 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644",
+      "icon": "fa-navicon",
+      "icon_type": "font",
+      "hidden": "1",
+      "theme_id": "default",
+      "structure": "structure1",
+      "sub_pages": [],
+      "sub_pages_router": [],
+      "date_added": "20240502134954",
+      "bk_id": "663368caef8a4bc7cb081dca",
+      "PAGE_DATA": {
+        "user_id": "{{USER_ID}}",
+        "app_id": "{{APP_ID}}",
+        "page_id": "663368caef8a4bc7cb081dca",
+        "_translate": [],
+        "_designs": {
+          "structure": "structure1"
+        },
+        "slider_setting": {
+          "type": "offline",
+          "move": "automatic",
+          "intervalTime": "4",
+          "indicator": "1",
+          "height": "260"
+        },
+        "menu_type": "customize",
+        "custom_pages": "",
+        "cards": [
+          {
+            "title": "\u062e\u0631\u06cc\u062f\u0647\u0627\u06cc \u0645\u0646",
+            "image": "\/uploads\/stocks\/images\/walking.jpg",
+            "type": "internal_link",
+            "icon_type": "font",
+            "link": "",
+            "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/my_shopping_list\/\"}}",
+            "icon": "fa-calendar",
+            "cutomColor": "theme",
+            "txtColor": "#222222",
+            "bgColor": "#ffffff"
+          }
+        ],
+        "slider": [
+          {
+            "image": "\/uploads\/stocks\/images\/imageFive.jpg",
+            "type": "none",
+            "link": "",
+            "router": "",
+            "title": "",
+            "subtitle": "",
+            "button_text": ""
+          }
+        ]
+      }
+    },
+    "66387dfae82e6c4d220cb203": {
+      "app_id": "{{APP_ID}}",
+      "user_id": "{{USER_ID}}",
+      "module": "Elementor",
+      "sort": 1375,
+      "slug": "xn-zmcqwdj8f3b",
+      "name": "\u062e\u0627\u0646\u0647",
+      "icon": "fa-home",
+      "icon_type": "font",
+      "hidden": 0,
+      "theme_id": "theme_1",
+      "structure": "structure1",
+      "sub_pages": [],
+      "sub_pages_router": [],
+      "date_added": "20240506102138",
+      "bk_id": "66387dfae82e6c4d220cb203",
+      "PAGE_DATA": {
+        "user_id": "{{USER_ID}}",
+        "app_id": "{{APP_ID}}",
+        "page_id": "66387dfae82e6c4d220cb203",
+        "_translate": {
+          "_app_errorBtn": "\u062a\u0644\u0627\u0634 \u0645\u062c\u062f\u062f",
+          "_app_errorMsg": "\u0645\u062d\u062a\u0648\u0627\u06cc\u06cc \u06cc\u0627\u0641\u062a \u0646\u0634\u062f",
+          "_appSearch": "\u062c\u0633\u062a\u062c\u0648 \u062f\u0631 \u0641\u06cc\u062f\u06cc\u0628\u0648",
+          "_appDirection": "\u0645\u0633\u06cc\u0631\u06cc\u0627\u0628\u06cc",
+          "_appUnavailableCommodity": "\u0646\u0627\u0645\u0648\u062c\u0648\u062f",
+          "_appFree": "\u0631\u0627\u06cc\u06af\u0627\u0646",
+          "_app_fory": "\u0641\u0648\u0631\u06cc",
+          "_app_global_error": "\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f.",
+          "_app_success_msg": "\u0639\u0645\u0644\u06cc\u0627\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0622\u0645\u06cc\u0632 \u0628\u0648\u062f",
+          "_app_refresh_text": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0628\u0627\u0631\u0647",
+          "_app_checkbox_confirm": "\u062a\u0627\u06cc\u06cc\u062f",
+          "_app_checkbox_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_calender_close_button": "\u0628\u0633\u062a\u0646",
+          "_app_cancel": "\u0628\u0633\u062a\u0646",
+          "_app_loading": "\u0644\u0637\u0641\u0627 \u0645\u0646\u062a\u0638\u0631 \u0628\u0645\u0627\u0646\u06cc\u062f...",
+          "_app_file_downloading_progress": "\u062f\u0631 \u062d\u0627\u0644 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644",
+          "_app_file_downloading_success": "\u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f. \u0627\u06cc\u0646 \u0641\u0627\u06cc\u0644 \u062f\u0631 \u067e\u0648\u0634\u0647 Downloads \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u0634\u0645\u0627 \u0642\u0627\u0628\u0644 \u0645\u0634\u0627\u0647\u062f\u0647 \u0627\u0633\u062a.",
+          "_app_file_downloading_failed": "\u062e\u0637\u0627 \u062f\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0641\u0627\u06cc\u0644! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f\u0627 \u062a\u0644\u0627\u0634 \u0646\u0645\u0627\u06cc\u06cc\u062f."
+        },
+        "_designs": {
+          "structure": "structure1"
+        },
+        "elementor": [
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "search",
+                "setting": {
+                  "id": "6637463ccc7464de9b01e872",
+                  "type": "",
+                  "design_type": "default"
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "margin": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "space",
+                "setting": {
+                  "height": 5
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "slider",
+                "setting": {
+                  "move": "automatic",
+                  "interval": 4,
+                  "indicator": "1",
+                  "height": 160,
+                  "slides": [
+                    {
+                      "image": "\/uploads\/stocks\/images\/booking\/image43.png",
+                      "link": "",
+                      "type": "none",
+                      "router": ""
+                    },
+                    {
+                      "image": "\/uploads\/stocks\/images\/booking\/image61.png",
+                      "link": "",
+                      "type": "none",
+                      "router": ""
+                    }
+                  ]
+                },
+                "design": "slideshow"
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "margin": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "space",
+                "setting": {
+                  "height": 18
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "5",
+              "top_left": "5",
+              "bottom_right": "5",
+              "bottom_left": "5"
+            },
+            "items": [
+              {
+                "element": "file_shop",
+                "setting": {
+                  "id": "6637463ccc7464de9b01e872",
+                  "type": "categories",
+                  "design_type": "separate"
+                },
+                "design": "panels"
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "internal_link",
+              "link": "",
+              "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/last_products\/\",\"page_info\":\"\"}}"
+            },
+            "read_more_text": "\u0631\u0627\u06cc\u06af\u0627\u0646",
+            "elevation": "0",
+            "padding": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "margin": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "space",
+                "setting": [],
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "\u067e\u0631 \u0637\u0631\u0641\u062f\u0627\u0631 ",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "internal_link",
+              "link": "",
+              "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/last_products\/\",\"page_info\":\"\"}}"
+            },
+            "read_more_text": "\u0645\u0634\u0627\u0647\u062f\u0647",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "file_shop",
+                "setting": {
+                  "id": "6637463ccc7464de9b01e872",
+                  "type": "posts",
+                  "design_type": "default"
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "margin": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "space",
+                "setting": {
+                  "height": 3
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "12",
+            "background_color": "",
+            "scrollable": true,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "transparent",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/product\/\",\"page_info\":\"66389793958e37296b028b62\"}}"
+            },
+            "read_more_text": ".",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "image",
+                "setting": {
+                  "src": "\/uploads\/stocks\/images\/work.jpg",
+                  "width": 250,
+                  "height": 150,
+                  "text": "\u0645\u0634\u0627\u0647\u062f\u0647",
+                  "data": {
+                    "type": "internal_link",
+                    "link": "",
+                    "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/product\/\",\"page_info\":\"6638907514e303e1cd07eb92\"}}"
+                  }
+                },
+                "design": "lists"
+              },
+              {
+                "element": "image",
+                "setting": {
+                  "src": "\/uploads\/stocks\/images\/search4.jpg",
+                  "width": 250,
+                  "height": 150,
+                  "text": "\u0645\u0634\u0627\u0647\u062f\u0647",
+                  "data": {
+                    "type": "internal_link",
+                    "link": "",
+                    "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/category\/\",\"page_info\":\"66388204ba4e0eb4d304e402\/\u06a9\u062a\u0627\u0628 \u0645\u062a\u0646\u06cc\/false\"}}"
+                  }
+                },
+                "design": "lists"
+              },
+              {
+                "element": "image",
+                "setting": {
+                  "src": "\/uploads\/stocks\/images\/reading4x.jpg",
+                  "width": 250,
+                  "height": 150,
+                  "text": "\u0645\u0634\u0627\u0647\u062f\u0647",
+                  "data": {
+                    "type": "internal_link",
+                    "link": "",
+                    "router": "{\"actionType\":\"internal_link\",\"info\":{\"page_id\":\"\/xn-ymcb1bp0fezxh84idk\/product\/\",\"page_info\":\"6638907514e303e1cd07eb92\"}}"
+                  }
+                },
+                "design": "lists"
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              },
+              {
+                "element": "",
+                "setting": [],
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "margin": {
+              "top": "0",
+              "right": "4",
+              "bottom": "0",
+              "left": "4"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "space",
+                "setting": {
+                  "height": 3
+                },
+                "design": ""
+              }
+            ]
+          },
+          {
+            "column": "1",
+            "background_color": "",
+            "scrollable": false,
+            "title": "",
+            "title_color": "",
+            "read_more_color": "",
+            "read_more": {
+              "type": "none",
+              "link": "",
+              "router": ""
+            },
+            "read_more_text": "",
+            "elevation": "0",
+            "padding": {
+              "top": "12",
+              "right": "4",
+              "bottom": "4",
+              "left": "4"
+            },
+            "margin": {
+              "top": "12",
+              "right": "4",
+              "bottom": "5",
+              "left": "10"
+            },
+            "border_radius": {
+              "top_right": "0",
+              "top_left": "0",
+              "bottom_right": "0",
+              "bottom_left": "0"
+            },
+            "items": [
+              {
+                "element": "file_shop",
+                "setting": {
+                  "id": "6637463ccc7464de9b01e872",
+                  "type": "posts",
+                  "design_type": "default"
+                },
+                "design": "cards"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "media": [
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "icon",
+      "section_id": "app_settings",
+      "user_id": "{{USER_ID}}",
+      "file_name": "icon109.png",
+      "file_path": "\/uploads\/stocks\/icons\/file\/colorful\/icon109.png",
+      "page_id": ""
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "menu_slider_image",
+      "section_id": "663368caef8a4bc7cb081dca",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/imageFive.jpg"
+      ],
+      "page_id": ""
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "menu_module_cards_image",
+      "section_id": "663368caef8a4bc7cb081dca",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/walking.jpg"
+      ],
+      "page_id": ""
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "productFileSlider_image",
+      "section_id": "6638907514e303e1cd07eb92",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/test-maker\/image58.png"
+      ],
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "intro_slider_image",
+      "section_id": "663895b8528c732fde0387f2",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/icons\/file\/colorful\/icon19.png",
+        "\/uploads\/stocks\/icons\/file\/colorful\/icon109.png"
+      ],
+      "page_id": ""
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "productFileSlider_image",
+      "section_id": "66389793958e37296b028b62",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/about-us\/image129.png"
+      ],
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "productFileSlider_image",
+      "section_id": "66389eaf40b3391bae0fe4b2",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/asdf-1.png"
+      ],
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "productFileSlider_image",
+      "section_id": "6638a248f71fe4e19c061873",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/fun4.jpg"
+      ],
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "cover",
+      "section_id": "66389eaf40b3391bae0fe4b2",
+      "user_id": "{{USER_ID}}",
+      "file_name": "asdf-1.png",
+      "file_path": "\/uploads\/stocks\/images\/asdf-1.png",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "file",
+      "section_id": "66389eaf40b3391bae0fe4b2",
+      "user_id": "{{USER_ID}}",
+      "file_name": "lorem.pdf",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "cover",
+      "section_id": "66389793958e37296b028b62",
+      "user_id": "{{USER_ID}}",
+      "file_name": "image129.png",
+      "file_path": "\/uploads\/stocks\/images\/about-us\/image129.png",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "file",
+      "section_id": "66389793958e37296b028b62",
+      "user_id": "{{USER_ID}}",
+      "file_name": "lorem.pdf",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "cover",
+      "section_id": "6638907514e303e1cd07eb92",
+      "user_id": "{{USER_ID}}",
+      "file_name": "image58.png",
+      "file_path": "\/uploads\/stocks\/images\/test-maker\/image58.png",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "file",
+      "section_id": "6638907514e303e1cd07eb92",
+      "user_id": "{{USER_ID}}",
+      "file_name": "lorem.pdf",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "content_slider_image",
+      "section_id": "6638a39b2be0f686f909d465",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/lab.jpg"
+      ],
+      "page_id": ""
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "file",
+      "section_id": "6638b7eb9692a14e66004d42",
+      "user_id": "{{USER_ID}}",
+      "file_name": "ChopinNocturneNo2.mp3",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/sound\/ChopinNocturneNo2.mp3",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "productFileSlider_image",
+      "section_id": "6638b7eb9692a14e66004d42",
+      "user_id": "{{USER_ID}}",
+      "file_name": "CK_EDITOR",
+      "file_path": [
+        "\/uploads\/stocks\/images\/music\/image61.png"
+      ],
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "cover",
+      "section_id": "6638a248f71fe4e19c061873",
+      "user_id": "{{USER_ID}}",
+      "file_name": "fun4.jpg",
+      "file_path": "\/uploads\/stocks\/images\/fun4.jpg",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "file",
+      "section_id": "6638a248f71fe4e19c061873",
+      "user_id": "{{USER_ID}}",
+      "file_name": "lorem.pdf",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/Fidibo\/lorem.pdf",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "cover",
+      "section_id": "6638b7eb9692a14e66004d42",
+      "user_id": "{{USER_ID}}",
+      "file_name": "image61.png",
+      "file_path": "\/uploads\/stocks\/images\/music\/image61.png",
+      "page_id": "6637463ccc7464de9b01e872"
+    },
+    {
+      "app_id": "{{APP_ID}}",
+      "section": "mp4_image",
+      "section_id": "6638a39b2be0f686f909d465",
+      "user_id": "{{USER_ID}}",
+      "file_name": "image4.png",
+      "file_path": "\/uploads\/user\/orqsaiphdl\/image4.png",
+      "page_id": ""
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+.apt-panel-dark .page,
+.apt-panel-dark .mainPage {
+    background: #242424;
+}
+
+.apt-panel-dark .page-aside .list-group-item,
+.apt-panel-dark .media-card .media-body,
+.apt-panel-dark .modal-content,
+.apt-panel-dark .modal-sidebar,
+.apt-panel-dark .panel {
+    background-color: #373737;
+}
+
+.apt-panel-dark .form-control {
+    border-color: #373737;
+    background: #404040 !important;
+    color: #CCCCCC;
+}
+
+.apt-panel-dark select.form-control {
+    background: #404040 none !important;
+    color: #eaeaea;
+}
+
+.apt-panel-dark .page-aside-title,
+.apt-panel-dark .editor-menu .dropdown-toggle,
+.apt-panel-dark .close,
+.apt-panel-dark h1,.apt-panel-dark h2,.apt-panel-dark h3,.apt-panel-dark h4,.apt-panel-dark h5,.apt-panel-dark h6,.apt-panel-dark p {
+    color: #dadada;
+}
+
+.apt-panel-dark .panel-title,
+.apt-panel-dark .nav-tabs .nav-link {
+    color: #f1f1f1;
+}
+
+.apt-panel-dark .app-demo-device {
+    background-color: #cccccc;
+    border-color: #cccccc;
+}
+
+.apt-panel-dark .page-aside {
+    background: #242424;
+    border-color: #404040;
+}
+.apt-panel-dark .page-aside-right .page-aside .page-aside-inner {
+    border-color: #404040;
+}
+
+.apt-panel-dark .page-aside .list-group-item.active,
+.apt-panel-dark .page-aside .list-group-item:not(.modisable):hover {
+    background-color: #404040 !important;
+}
+
+.apt-panel-dark .page-aside-section::after,
+.apt-panel-dark .btn-outline.btn-default,
+.apt-panel-dark .nav-tabs {
+    border-color: #404040;
+}
+
+.apt-panel-dark .pages-list-sort li,
+.apt-panel-dark .card {
+    background-color: #4c4c4c;
+    border-color: #4c4c4c;
+    color: #dadada;
+}
+
+.apt-panel-dark .btn-outline {
+    color: #dadada;
+    border-color: #dadada;
+}
+
+.apt-panel-dark .modal-fill-in.show {
+    background-color: rgba(53, 48, 48, 0.75);
+}
+.apt-panel-dark .modal-fill-in .modal-content {
+    background-color: transparent;
+}
+
+.apt-panel-dark .bg-white {
+    background-color: transparent !important;
+}
+
+.apt-panel-dark .nav-tabs .nav-link.active {
+    color: #846faa
+}
+
+.apt-panel-dark .cke_bottom,
+.apt-panel-dark .cke_top {
+    background-color: #b7b6b9;
+}
+.apt-panel-dark .cke_chrome {
+    border-color: #b7b6b9;
+}
+
+.apt-panel-dark .page-structure-selector,
+.apt-panel-dark .page-structure-selector .media-body {
+    background-color: #4c4c4c !important;
+}
+
+.apt-panel-dark .dropdown-menu {
+    background-color: #242424;
+    border: 1px solid #4c4c4c;
+}
+
+.apt-panel-dark .dropdown-divider {
+    border: 1px solid #4c4c4c;
+}
+
+.apt-panel-dark .dropdown-item {
+    color: #dadada;
+}
+.apt-panel-dark .dropdown-item:hover {
+    background-color: #404040;
+    color: #dadada;
+}
+
+.apt-panel-dark .alert.dark.alert-primary {
+    background-color: #1150a2;
+    border-color: #1150a2;
+}
+
+.apt-panel-dark .page-profile-v2 .card,
+.apt-panel-dark .panel-group .card {
+    background-color: #373737;
+}
+
+.apt-panel-dark a .counter-label,
+.apt-panel-dark a.list-group-item,
+.apt-panel-dark a.text-action,
+.apt-panel-dark .icon-color,
+.apt-panel-dark .counter > .counter-number {
+    color: #fff !important;
+}
+
+.apt-panel-dark .counter .counter-number-group {
+    color: #fff;
+}
+
+.apt-panel-dark .alert-info {
+    color: #fff;
+    background-color: #00cef5;
+    border-color: #00cef5;
+}
+
+.apt-panel-dark .select2-container--default .select2-selection--multiple {
+    border-color: #373737;
+    background: #404040 !important;
+    color: #CCCCCC;
+}
+
+.apt-panel-dark  .select2-container .select2-search--inline .select2-search__field {
+    background: #404040 !important;
+    color: #CCCCCC;
+}
+
+.apt-panel-dark .chat-box {
+    background-color: transparent;
+}
+
+.apt-panel-dark .chat-left .chat-content p {
+    color: #555555;
+}
+
+.apt-panel-dark .app-list-menu {
+    background-color: transparent;
+}
+
+.apt-panel-dark .panel.show {
+    background-color: #111111 !important;
+}

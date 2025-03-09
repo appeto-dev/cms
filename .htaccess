@@ -1,0 +1,25 @@
+<IfModule mod_headers.c>
+    #Header unset X-Frame-Options
+    #Header always unset X-Frame-Options
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Prevent access to the /src directory
+  RewriteRule ^(src/) - [F,L,NC]
+
+  # Prevent access to the /modules directory
+  RewriteRule ^(modules/) - [F,L,NC]
+
+  # Prevent access to the /themes directory
+  RewriteRule ^(themes/) - [F,L,NC]
+
+  # Prevent access to the /vendor directory
+  RewriteRule ^(vendor/) - [F,L,NC]
+</IfModule>
