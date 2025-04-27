@@ -14,6 +14,9 @@
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
+
+  RewriteRule ^(.*)$ public/$1 [L]
+
   # Prevent access to the /src directory
   RewriteRule ^(src/) - [F,L,NC]
 
