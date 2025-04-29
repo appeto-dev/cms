@@ -29,7 +29,7 @@ RUN pecl install mongodb-1.13.0 \
     && docker-php-ext-enable mongodb
 
 # Install IonCube Loader
-RUN curl -o ioncube_loader_lin.tar.gz https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz && \
+RUN curl -L --retry 5 --retry-delay 5 -o ioncube_loader_lin.tar.gz https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz && \
     tar -xzf ioncube_loader_lin.tar.gz && \
     cp ioncube/ioncube_loader_lin_7.4.so /usr/local/lib/php/extensions/no-debug-non-zts-20190902/ && \
     echo "zend_extension=/usr/local/lib/php/extensions/no-debug-non-zts-20190902/ioncube_loader_lin_7.4.so" >> /usr/local/etc/php/conf.d/00-ioncube.ini && \
@@ -56,8 +56,11 @@ RUN chown -R www-data:www-data /var/www/html
 # Expose port
 EXPOSE 80
 
-# Copy entrypoint script
+# Copy entrypoint
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 
-# Set entrypoint
-ENTRYPOINT ["entrypoint.sh"]
+# Make it executable
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
+# Set as entrypoint
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
